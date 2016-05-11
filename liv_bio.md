@@ -2,8 +2,6 @@
 
 Consectetur adipiscing elit. In consequat est neque. Sed facilisis metus quis mauris pellentesque ornare. Proin turpis mauris, gravida ullamcorper velit quis, ornare volutpat mauris. In venenatis, dui a ultrices venenatis, justo tortor interdum ante, ut bibendum lorem eros a tellus. 
 
-Sed nec sem at ipsum vulputate aliquet. Sed molestie, sem ornare sagittis auctor, quam enim faucibus neque, quis ornare eros magna sed velit. Donec sed arcu a elit feugiat maximus vitae quis ex. Suspendisse potenti. Aliquam vitae mauris sed nunc imperdiet lacinia. Mauris fermentum nec leo id elementum. Pellentesque at faucibus eros. Nulla interdum faucibus elit, ut molestie quam elementum vitae.
-
 * Etiam eget dui purus. Nam id risus eget nisl 
 * dapibus pellentesque ut sed odio. Sed eget tincidunt elit.
 * Nulla nec dolor facilisis, tincidunt massa eu, porta nisi. 
