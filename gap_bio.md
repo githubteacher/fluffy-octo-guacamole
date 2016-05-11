@@ -1,1 +1,2 @@
-# Bio
+## Hometown
+- Angeles City, Pampanga, Philippines
