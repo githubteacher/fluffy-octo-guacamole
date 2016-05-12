@@ -1,5 +1,6 @@
 ### Hometown
-- Washingtton DC
+- Washington DC
 
-###Favorite Activites
+###Favorite Activities
 - Hiking
+- Movies
