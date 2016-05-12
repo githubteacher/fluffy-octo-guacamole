@@ -132,3 +132,6 @@ Configure your settings to do this by default by typing `git config --global fet
 - Set up an alias in configurations: `git config --global alias.<desired-alias> "the long version of the command that you want the alias to run, without git at the beginning, and with the desired flags"`
 
 lets see what happens with the conflict
+
+### Useful Links
+- [xkcd] (https://xkcd.com/54/)
