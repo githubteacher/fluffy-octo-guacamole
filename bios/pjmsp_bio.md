@@ -5,3 +5,7 @@
 ### Work place
 
 - Moviestarplanet
+
+### Favortie activities
+
+- Running
