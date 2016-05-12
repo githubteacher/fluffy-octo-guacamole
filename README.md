@@ -1,4 +1,4 @@
-Welcome!
+Welcome to Teacher!
 
 We'll be using Gitter, a chat service that integrates with GitHub, for Q&A. Please click the button below to join the chat room for today's class.
 
@@ -6,3 +6,4 @@ We'll be using Gitter, a chat service that integrates with GitHub, for Q&A. Plea
 
 ### Not Useful Links
 - [Bing](https://www.bing.com/)
+
