@@ -3,3 +3,4 @@
 
 ### Favorite Activities
 - skiing
+- food
