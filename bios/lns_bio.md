@@ -3,3 +3,4 @@
 
 ###Favourite activities
 - reading
+- skiing
