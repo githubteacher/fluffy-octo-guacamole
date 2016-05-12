@@ -3,3 +3,4 @@
 
 ### Favorite Activies
 - Sleeping
+- Eating
