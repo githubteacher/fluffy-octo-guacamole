@@ -1,1 +1,3 @@
-This is my first bio, 'cause yesterday I couldn't get my original version out to Github (network "issues").
+### My first bio
+- yesterday I couldn't get my original version out to Github
+- reason: network "issues"
