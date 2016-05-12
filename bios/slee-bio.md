@@ -1,3 +1,6 @@
-# Hometown
+### Hometown
+- Seoul, Korea
 
-## Seoul, Korea
+### Favorite Activities
+- Rugby
+- Motorcycling
