@@ -5,11 +5,11 @@ We'll be using Gitter, a chat service that integrates with GitHub, for Q&A. Plea
 
 [![chat room](https://badges.gitter.im/githubteacher/fluffy-octo-guacamole.svg)](https://gitter.im/githubteacher/fluffy-octo-guacamole?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<<<<<<< HEAD
-### Who is this?
+### Useful Links
+- [GitHub Guides](https://guides.github.com)
+- [StackOverflow Git Tagged Questions](http://stackoverflow.com/questions/tagged/git)
+- [xkcd](https://xkcd.com/54/)
 
-- David: [https://github.com/obsidianspork](https://github.com/obsidianspork)
-=======
 Notes from Day 1, section 1:
 
 ### Getting Ready for Class
@@ -26,8 +26,8 @@ Notes from Day 1, section 1:
 - Comment on [this issue](NEWLINKHERE) to become a collaborator on the project
 - Practice making an issue [in the issues tab of the class repository](NEWLINKHERE).
   - For today's activity, be sure to include your username in the title, like "YourUserName Hometown"
-  - In the body of the issue, we added the steps we'll take for the workflow. 
-  - Our goal later will be to add a document with information about your hometown, like good restaurants or things to do. 
+  - In the body of the issue, we added the steps we'll take for the workflow.
+  - Our goal later will be to add a document with information about your hometown, like good restaurants or things to do.
   - You can include [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) syntax here.
 
 **Getting access to the collaborator script:**
@@ -40,7 +40,7 @@ The collaborator script is open-source! You can access it [here](https://github.
 **Review of branches**
 - When you create a branch, you are essentially creating an identical copy of the project at that point in time that is completely separate from the master branch.
 - Create a branch on GitHub.com in the class repository
-  - Click the 'branch' dropdown 
+  - Click the 'branch' dropdown
   - Enter a branchname name 'firstname-lastname-hometown'
 
 
@@ -64,7 +64,7 @@ The collaborator script is open-source! You can access it [here](https://github.
 - Working on our new branch, we created a new file.
 - List the files in your current directory by running `ls -la`
 - We learned about 'working', 'staging', and 'history' and how commits fit into those areas using [this resource](https://services.github.com/kit/modules/CONT-CLI-04_Two_Stage_Commit.html).
-- See your working/staged area  `git status`. This command is :heart:! 
+- See your working/staged area  `git status`. This command is :heart:!
 
 Notes from Day 1, section 2:
 
@@ -138,7 +138,3 @@ Configure your settings to do this by default by typing `git config --global fet
 - Set up an alias in configurations: `git config --global alias.<desired-alias> "the long version of the command that you want the alias to run, without git at the beginning, and with the desired flags"`
 
 lets see what happens with the conflict
-
-### Useful Links
-- [xkcd] (https://xkcd.com/54/)
->>>>>>> 12c33fdec773e5ff7424979597cdaa7cb494afc0
