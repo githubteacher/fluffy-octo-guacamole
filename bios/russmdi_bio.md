@@ -1,4 +1,10 @@
 ## Russell's Bio
-### Birth place
-### Date of birth
-### Home address
+### Hometown
+- Bar Harbor
+### Favorite activities
+- Hiking
+- Kayaking
+- Snow shoeing
+### Favorite cities
+- Portland, ME
+- Austin

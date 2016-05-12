@@ -1,5 +1,6 @@
 ### Hometown
-- San Jose
+- Seoul, Korea
 
 ### Favorite Activities
-- Amusement parks
+- Rugby
+- Motorcycling

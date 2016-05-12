@@ -1,2 +1,6 @@
 ### Hometown
-- Columbia, TN
+- Hendersonville, TN
+
+### Favorite Activities
+- Sleeping
+- Eating

@@ -1,5 +1,5 @@
 ### Hometown
-- San Jose
+- Rio de Janeiro
 
 ### Favorite Activities
-- Amusement parks
+- play games
