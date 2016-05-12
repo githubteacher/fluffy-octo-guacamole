@@ -1,2 +1,0 @@
-###Hometown
-- Arequipa

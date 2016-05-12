@@ -1,3 +1,0 @@
-### Hometown
-
-- Scarborough

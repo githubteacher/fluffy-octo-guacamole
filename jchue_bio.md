@@ -1,2 +1,0 @@
-### Hometown
-- Los Angeles
