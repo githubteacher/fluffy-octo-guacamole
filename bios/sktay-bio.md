@@ -1,4 +1,5 @@
 ### Hometown
 - San Jose
 
-### What else?
+### Favorite Activities
+- Amusement parks
