@@ -1,0 +1,1350 @@
+Hector Alfaro @halfaro1 12:02
+Welcome to Day 2 of GitHub for Developers! @patrickmckenna is on the :microphone:. Answering questions on Gitter today will be @crichID, myself, and occasionally @brianamarie :octocat:
+
+Tinman @Tinman******** 12:03
+Hello
+Welcome to day 1
+day 2*
+
+Hector Alfaro @halfaro1 12:03
+@nehakgoyal I can hear Patrick OK but if the audio cuts in and out often you can try switching to using phone instead of your computer for audio
+
+Hamid Rohani @hamid914 12:03
+Hello :worried:
+
+john-bailey @john-bailey 12:04
+good morning!
+
+Cyndrah @Cyndrah 12:04
+do i delete my local branch that was created from yesterday session?
+
+Briana Swift @brianamarie 12:05
+If you are working with ******** and have questions specific to your network, feel free to ask here for help: https://gitter.im/githubteacher/GitHub-May-********
+
+Hector Alfaro @halfaro1 12:05
+Hello :wave: @manojdatar @ElJoMartinez @Tinman******** @hamid914
+Why the frown, @hamid914 ?
+
+Marcus Mendes Maciel @marcusmendes 12:05
+Hello
+
+Hector Alfaro @halfaro1 12:05
+@Cyndrah you shouldn't have to delete the local branch
+
+kgodoy @kgodoy 12:05
+Hi all
+
+Cynthia Rich @crichID 12:05
+@buzzsurfr FYI re special room for ********!
+https://gitter.im/githubteacher/GitHub-May-********
+@buzzsurfr would be awesome if you could send that through Lync
+
+akm111 @akm111 12:06
+I am getting this error on push
+
+Cynthia Rich @crichID 12:06
+:heart:
+
+akm111 @akm111 12:06
+remote: Permission to githubteacher/fluffy-octo-guacamole.git denied to akm111.
+fatal: unable to access 'https://github.com/githubteacher/fluffy-octo-guacamole.git/': The requested URL returned error: 403
+how do I fix it
+
+Hector Alfaro @halfaro1 12:06
+@akm111 are you with ********?
+
+nehakgoyal @nehakgoyal 12:06
+@halfaro1 I am connected via my phone. The voice is audible, but not very clear. Slight echo.
+
+Theodore Salvo @buzzsurfr 12:06
+@crichid I'm going to push all questions that aren't specific to ******** back to this bitter.
+That way, we can keep it to a minimum number of rooms
+
+Cynthia Rich @crichID 12:07
+@buzzsurfr that is perfect!
+
+akm111 @akm111 12:07
+not with ********
+
+Hector Alfaro @halfaro1 12:07
+@akm111 alright thanks, are you behind a company firewall?
+
+akm111 @akm111 12:07
+no
+
+Hamid Rohani @hamid914 12:07
+@halfaro1 I have been disconnected during the previous session... And missed it...
+
+Hector Alfaro @halfaro1 12:07
+@akm111 and did you comment on the collaborator issue yesterday? (I'm checking now)
+
+akm111 @akm111 12:08
+no
+
+Hector Alfaro @halfaro1 12:08
+Ah -- that's what's going on, let me add you as a collaborator.
+
+Cynthia Rich @crichID 12:09
+@hamid914 right now we are just reviewing what we learned yesterday
+we talked a little bit about the deploy process used at github
+
+Hector Alfaro @halfaro1 12:09
+Try now @akm111
+
+akm111 @akm111 12:10
+hanks it worked
+thanks
+
+Hector Alfaro @halfaro1 12:10
+:clap:
+
+J. Sebastian Tello @jsebastiantello 12:12
+Can you increase the font size in your computer? It is difficult to see.
+
+Stéphane Gerber @stephane303 12:13
+Why isn't it recommended to delete and clone again with the same name ? How bad is that ?
+
+Cynthia Rich @crichID 12:14
+@stephane303 one of the biggest reasons you do not want to delete and reclone is because it will delete your reflog. We will cover reflog later and you will see exactly why you don’t want to delete it!
+
+sktay @sktay 12:14
+rm isn't a recognized command for me
+
+harlandu @harlandu 12:14
+How do we change our prompt to be like his?
+
+tpvlaxmi @tpvlaxmi 12:15
+Could you please help me that I am getting permission denied message
+
+Gerald Anthony Piangco @ubuntux 12:15
+@sktay what OS are you using?
+
+Cynthia Rich @crichID 12:15
+@sktay rm is the command to delete a file. You can also just go delete the repository with Windows explorer for now
+
+sktay @sktay 12:15
+windows 7
+
+tpvlaxmi @tpvlaxmi 12:15
+windows 7 OS 64
+
+Hamid Rohani @hamid914 12:15
+@crichID :wink:
+
+Cynthia Rich @crichID 12:16
+@tpvlaxmi were you able to clone yesterday?
+
+sktay @sktay 12:16
+@crichID thanks
+
+tpvlaxmi @tpvlaxmi 12:16
+no, just trying today
+
+Livia Labate @livlab 12:16
+what happens if you push a branch named the same as a branch someone else already pushed?
+
+Cynthia Rich @crichID 12:17
+@tpvlaxmi would you happen to be with ********?
+
+tpvlaxmi @tpvlaxmi 12:17
+@crichID Warning: Permanently added 'github.com,-----' (RSA) to the list of known hosts.
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Cynthia Rich @crichID 12:17
+@tpvlaxmi are you cloning with SSH or HTTPS?
+
+kgodoy @kgodoy 12:17
+dang I can't delete it either
+now I have an empty directory that I can't delete
+
+cmirrop @cmirrop 12:17
+command git checkout -b is not working
+
+J. Sebastian Tello @jsebastiantello 12:17
+slowing down a bit would be helpful
+
+Frank H. Zambrano @Frankhzm 12:17
+please reduce editor screen size to see terminal
+
+tpvlaxmi @tpvlaxmi 12:17
+@crichID Sorry not sure I understand your question: let me give u full command: $ git clone git@github.com:tpvlaxmi/fluffy-octo-guacamole.git
+Cloning into 'fluffy-octo-guacamole'...
+The authenticity of host 'github.com (192.30.252.123)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? y
+Please type 'yes' or 'no': yes
+Warning: Permanently added 'github.com,192.30.252.123' (RSA) to the list of known hosts.
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+
+J. Sebastian Tello @jsebastiantello 12:17
+:D
+
+tpvlaxmi @tpvlaxmi 12:18
+@crichID I am using with SSH
+
+Hector Alfaro @halfaro1 12:18
+@harlandu https://gist.github.com/githubteacher/e75edf29d76571f8cc6c
+
+Cynthia Rich @crichID 12:18
+@tpvlaxmi do you work for ********?
+
+cmirrop @cmirrop 12:18
+git checkout -b update-cam-bio => This errors out
+
+tpvlaxmi @tpvlaxmi 12:19
+@crichID No I don't work ********
+
+cmirrop @cmirrop 12:19
+fatal error: Not a git repository
+
+Cynthia Rich @crichID 12:19
+@tpvlaxmi ok thank you - this is usually because of a proxy issue - can you try again with HTTPS?
+@cmirrop you will need to CD into the repository first
+
+Hector Alfaro @halfaro1 12:19
+@livlab you can check out to any branch, and if you push that branch the commits you added will be merged with the commits already existing on that branch
+
+manojdatar @manojdatar 12:19
+if i've staged a file and my machine crashes, will i be able to recover it on another?
+
+tpvlaxmi @tpvlaxmi 12:20
+@crichID In other training I used HTTPs, want to try out with SSH. if it does not work I will try HTTPS then :(
+
+Cynthia Rich @crichID 12:20
+@tpvlaxmi do you already have your SSH keys set up?
+
+Hector Alfaro @halfaro1 12:20
+@cmirrop what error message do you see? you need to specify a branch name git checkout -b <unique-name>
+
+tpvlaxmi @tpvlaxmi 12:20
+@crichID no
+
+Hector Alfaro @halfaro1 12:21
+@kgodoy did you figure out how to remove your empty directory? i believe you're much more skilled with your powershell than I am but I can try...
+
+tpvlaxmi @tpvlaxmi 12:21
+@crichID Should I be using "git clone https://github.com/githubteacher/fluffy-octo-guacamole.git" for HTTPs
+
+Cynthia Rich @crichID 12:21
+@tpvlaxmi ok - you probably want to do that before you try to use SSH: https://help.github.com/articles/generating-an-ssh-key/
+
+kgodoy @kgodoy 12:21
+I know huh @halfaro1
+
+Frank H. Zambrano @Frankhzm 12:21
+Need to see command line
+
+kgodoy @kgodoy 12:21
+I cloned anyway and it's fine @halfaro1
+
+Hector Alfaro @halfaro1 12:21
+:+1: @kgodoy
+
+kgodoy @kgodoy 12:21
+It was empty anyway just couldn't delete the directory... weird
+
+Cynthia Rich @crichID 12:21
+@tpvlaxmi yes
+
+Cyndrah @Cyndrah 12:22
+i don't recall how to set my editor used with my local commit.
+
+tpvlaxmi @tpvlaxmi 12:22
+@crichID thanks
+
+Cynthia Rich @crichID 12:22
+@kgodoy permissions issue?
+
+kgodoy @kgodoy 12:22
+@crichID I think maybe Atom had a lock
+
+Stéphane Gerber @stephane303 12:23
+@crichID I will have to introduce git in my company, they come from the svn world, can you give me any advice ( website, powerpoint, teaching material )
+
+Theodore Salvo @buzzsurfr 12:23
+@tpvlaxmi did you fork the repo to your username?
+
+Hector Alfaro @halfaro1 12:23
+@cmirrop that's because you may not be on the directory of the repo, did you clone the repo fresh? if so, you can do cd fluffy-octo-guacamole and try again
+
+tpvlaxmi @tpvlaxmi 12:24
+@buzzsurfr not yet
+
+Mark Pereira @futurepr0n 12:24
+I have sublime set up as my default editor but when I close after saving, I always get "Aborting commit due to empty commit message." in the console
+
+Theodore Salvo @buzzsurfr 12:24
+your clone statement above specified your username, try cloning to git@github.com:githubteacher/fluffy-octo-guacamole.git
+
+J. Sebastian Tello @jsebastiantello 12:24
+How do I change the text editor that will open the file to add a commit message, right now it's opening RStudio...
+
+Mark Pereira @futurepr0n 12:24
+I end up having to use git commit -m always. Anyway I can fix it?
+
+Cynthia Rich @crichID 12:24
+@stephane303 we would be happy to share our materials with you and help in any way we can - can you email me at services@github.com?
+
+Hector Alfaro @halfaro1 12:24
+@Cyndrah git config --local core.edit <editor-command> but the --local flag only applies to this repository
+
+tpvlaxmi @tpvlaxmi 12:24
+@buzzsurfr For that I need to create same repo and check-in changes to my repo right? Could u please provide steps
+
+Hector Alfaro @halfaro1 12:25
+@Cyndrah you can use git config --global core.edit <editor.command> to apply globally
+
+Theodore Salvo @buzzsurfr 12:25
+You don't need the fork if you are added as collaborator. @crichid, can you check?
+
+manojdatar @manojdatar 12:25
+diff shows me that the files are binary... (Binary files a/bios/md_bio.md and b/bios/md_bio.md differ)?
+
+Cynthia Rich @crichID 12:25
+@futurepr0n did you set the -w switch when you config’d sublime?
+
+Cyndrah @Cyndrah 12:25
+for editor-command what would it be for windows 7 using Notepad++?
+
+Cynthia Rich @crichID 12:25
+@jsebastiantello what do you have installed as a text editor?
+
+Hector Alfaro @halfaro1 12:26
+@Cyndrah you'd have to look up how to open notepad++ from the command line, probably have to add it to your PATH on windows, might be more than we want to get to for this session
+
+J. Sebastian Tello @jsebastiantello 12:26
+I have atom and notepad++ and notepad. I'd prefer to use atom
+
+Cyndrah @Cyndrah 12:26
+ok
+
+Hector Alfaro @halfaro1 12:26
+@manojdatar i'm not sure I understand the question, .md files aren't binary
+
+Cynthia Rich @crichID 12:27
+@tpvlaxmi yes, you are already a collaborator cc/ @buzzsurfr
+
+kgodoy @kgodoy 12:27
+@Cyndrah I use Atom also but here's some info for Notepad++ http://stackoverflow.com/questions/1634161/how-do-i-use-notepad-or-other-with-msysgit
+
+Theodore Salvo @buzzsurfr 12:27
+@tpvlaxmi you can just clone using the githubteacher org
+
+manojdatar @manojdatar 12:27
+i have a windows machine. i edited the file that i created and then i did a diff master command - it returned the following output:
+C:\git_class\fluffy-octo-guacamole\bios [update-md-bio]> git diff master
+diff --git a/bios/md_bio.md b/bios/md_bio.md
+index a47ab27..a576ef5 100644
+
+Cynthia Rich @crichID 12:27
+@manojdatar ok to ignore the binary bit for now
+
+manojdatar @manojdatar 12:28
+ok @crichID thanks...
+
+Theodore Salvo @buzzsurfr 12:28
+Patrick, don't forget to mention about the Atom Markdown Preview package!
+
+Cynthia Rich @crichID 12:28
+@jsebastiantello enter this git config —global core.editor “atom —wait"
+@jsebastiantello those are double dashes
+
+Mark Pereira @futurepr0n 12:28
+I fixed it
+http://stackoverflow.com/questions/9725160/aborting-commit-due-to-empty-commit-message
+
+Cynthia Rich @crichID 12:29
+@buzzsurfr reminder sent
+
+manojdatar @manojdatar 12:29
+@crichID even if you're able to point me to a url about the binary problem i'll look it up post class, thanks!
+
+Alex Zuniga @alexanderzuniga 12:30
+will we be getting into setting up submodules perchance?
+
+Cyndrah @Cyndrah 12:30
+this seems to do the trick: set PATH=%PATH%;C:\Program Files (x86)\Notepad++
+
+Hector Alfaro @halfaro1 12:31
+@Cyndrah :+1:
+@alexanderzuniga it's not on our agenda but if you'd like to remind me near the end at Q&A I'm sure Patrick would :heart: to talk about submodules
+
+Alex Zuniga @alexanderzuniga 12:31
+suh-weeet!
+
+Cynthia Rich @crichID 12:34
+@manojdatar http://stackoverflow.com/questions/6855712/why-does-git-treat-this-text-file-as-a-binary-file
+
+manojdatar @manojdatar 12:35
+@crichID thanks! i'll check it out... :+1:
+
+john-bailey @john-bailey 12:35
+what is the difference between config push.default=upstream and push.default=simple?
+
+Github4Aaron @Github4Aaron 12:35
+when will the recordings be available?
+
+Hector Alfaro @halfaro1 12:36
+@john-bailey simple checks if the branch names match locally and upstream
+@john-bailey there's a section on push.default here: https://git-scm.com/docs/git-config
+
+john-bailey @john-bailey 12:37
+Thanks @halfaro1
+
+ismaelcrespof @ismaelcrespof 12:37
+Hi. HOw can I collaborate?
+
+Cynthia Rich @crichID 12:37
+@Github4Aaron it usually takes us a day or two - yesterday’s video is already up https://vimeo.com/166273795/bf43c46e11
+
+JohnAtCL @JohnAtCL 12:37
+What is the -u again when we do the push?
+
+Github4Aaron @Github4Aaron 12:38
+@crichID thankyou
+
+Hector Alfaro @halfaro1 12:38
+@ismaelcrespof what do you mean? did you join us yesterday and commented on the collaborator issue?
+
+David Coy @obsidianspork 12:38
+@JohnAtCL that sets the upstream path when you push your branch up
+
+Elliot Martinez @ElJoMartinez 12:38
+not good to loose your head haha
+
+Hector Alfaro @halfaro1 12:38
+@JohnAtCL @obsidianspork 's response is :sparkles:
+
+ismaelcrespof @ismaelcrespof 12:39
+@halfaro1 No, I could not join yesterday...
+
+Hector Alfaro @halfaro1 12:39
+@ismaelcrespof ok let me add you as a collaborator, one sec
+
+Briana Swift @brianamarie 12:39
+@ismaelcrespof I added you :smile:
+
+ismaelcrespof @ismaelcrespof 12:39
+@halfaro1 Thanks!!!
+@brianamarie Thank you!!
+
+Hector Alfaro @halfaro1 12:39
+@brianamarie beat me to it, @ismaelcrespof she's awesome like that
+
+Mark Pereira @futurepr0n 12:39
+what was that last command after git branch -r
+I am not seeing all teh branches
+
+Hector Alfaro @halfaro1 12:40
+@futurepr0n if you do git branch --all you should see all the branches
+
+Mark Pereira @futurepr0n 12:41
+note yet
+i pushed the origin with my update
+
+Hector Alfaro @halfaro1 12:41
+@futurepr0n could you do git remote -v?
+
+Mark Pereira @futurepr0n 12:42
+$ git push -u origin update-futurepr0n-bio
+$ git branch -r
+origin/HEAD -> origin/master
+origin/am_bio
+origin/asc-add-bio
+origin/master
+origin/update-futurepr0n-bio
+$ git remote -v
+origin https://github.com/githubteacher/fluffy-octo-guacamole.git (fetch)
+origin https://github.com/githubteacher/fluffy-octo-guacamole.git (push)
+hm, did i miss the step that made me another origin
+
+Hector Alfaro @halfaro1 12:44
+@futurepr0n did you try git branch --all?
+
+Hamid Rohani @hamid914 12:44
+@crichID did you cover Milestone in previous session? If not, is it possible for @patrickmckenna to cover it?
+
+Mark Pereira @futurepr0n 12:44
+$ git branch --all
+master
+update-futurepr0n-bio
+remotes/origin/HEAD -> origin/master
+remotes/origin/am_bio
+remotes/origin/asc-add-bio
+remotes/origin/master
+remotes/origin/update-futurepr0n-bio
+
+Cynthia Rich @crichID 12:45
+@hamid914 I failed you! We don’t usually cover milestones in this class but I will queue it up for Q&A. Something specific you want to know? They are pretty lightweight
+@futurepr0n are you trying to set up a second remote?
+
+mixolidia @mixolidia 12:46
+Is there a way to mention (@) everyone who is a contributor?
+
+Mark Pereira @futurepr0n 12:46
+no, just trying to see all the branches that the teacher showed
+Or should I not be able to see that until after I pull ?
+
+Cynthia Rich @crichID 12:47
+@futurepr0n Ah - yes, you will need to pull first
+@mixolidia you can use team mentions if you have an organization account - but there is no equivalent of the @channel or @/all
+
+mixolidia @mixolidia 12:50
+Thanks @crichID
+
+Gerald Anthony Piangco @ubuntux 12:53
+what is "squash" in merging?
+
+jfreise @jfreise 12:53
+Hi, what's CI stand for?
+
+Hamid Rohani @hamid914 12:53
+@crichID I created a test milestone, It is a deadline date that we can set deadline of pull request to it? am i right?
+
+Theodore Salvo @buzzsurfr 12:54
+@jfreise Continuous Integration
+
+Cynthia Rich @crichID 12:54
+@ubuntux the squash takes a group of commits and makes it in to a single commit
+
+Hector Alfaro @halfaro1 12:54
+@jfreise CI lets you specify automated tests that run on the branch to ensure the merge you're introducing won't break anything
+
+Gerald Anthony Piangco @ubuntux 12:54
+@crichID ok. thanks... that's cool!
+
+jfreise @jfreise 12:54
+got it - thanks!
+
+Hector Alfaro @halfaro1 12:54
+@jfreise oooh what's it STAND FOR, I should read better, :sparkles: @buzzsurfr
+
+lucy-sheridan @lucy-sheridan 12:54
+I cannot merge because of conflict caused by EOL conversion - I am on Windows
+
+Cynthia Rich @crichID 12:55
+@hamid914 yes, but it is not enforced in any way
+
+lucy-sheridan @lucy-sheridan 12:55
+I followed the instructions yesterday for that - how do I turn that off
+everytime I add a new line in Notepad - it isn't recognized
+
+Hector Alfaro @halfaro1 12:55
+@lucy-sheridan git config --global core.autocrlf true for Windows machines
+
+lucy-sheridan @lucy-sheridan 12:56
+it is showing remove existing / add same content back for my content which is typical of EOL
+
+Hector Alfaro @halfaro1 12:56
+@lucy-sheridan the alternative is git config --global core.autocrlf input for *nix systems
+
+J. Sebastian Tello @jsebastiantello 12:56
+what was the code to delete the local branch? Should we do that?
+
+lucy-sheridan @lucy-sheridan 12:56
+I cannot deal with conflict because so many users are merging - the instructions given in GitHub do not work because the target is contantly changing
+
+Hector Alfaro @halfaro1 13:02
+@Cyndrah what do you mean? did you remove your branch yet?
+@Cyndrah git branch will show you what branch you're currently on
+
+Cyndrah @Cyndrah 13:02
+my branch is: update-cyndrah-bio, bio is cyndrah_bio.md
+i'm in my branch.
+
+Hector Alfaro @halfaro1 13:03
+@Cyndrah alrighty, it looks like it's created locally, right? have you pushed it up to the remote yet?
+
+Cyndrah @Cyndrah 13:04
+i did not remove yesterday's from my local (but renamed it), then ran new clone and another branch, and another .md file in the new branch.
+i pushed via git pull.
+
+Luis Cano @luecano 13:04
+where I can get yesterday' recording?
+
+Briana Swift @brianamarie 13:05
+Notes from our first section today:
+Review of workflow
+We are using the same repository as yesterday
+Clone the repository locally on your command line: git clone https://github.com/githubteacher/fluffy-octo-guacamole.git new-fluffy-repository
+Note: the extra argument at the end creates an alternate name for the repository
+CD into the new repository: CD new-fluffy-repository
+See all of the bios: ls bios/
+Create a new branch and checkout to it: git checkout -b new-unique-branch-name
+Make changes locally to your own file in your favorite text editor. Save your changes and exit your text editor.
+Commit your changes:
+git add <filename>
+git commit -m "enter short descriptive commit message"
+View Local Changes
+Local Diffs
+View local diff diagram here
+git diff: See local changes between working, staging, and history
+If we have added more changes to a file that we've already created, we can see differences between them with git diff
+See differences with git diff
+git diff
+git diff --staged
+git diff HEAD
+To see differences between branches: git diff <branchname>
+git diff --stat master
+Local History
+Use git log to view the history of the repository
+git log will show commits from your own local repository, but also changes made by other collaborators
+Experiment with different option switches to view history:
+git log
+git log --oneline
+git log --oneline --graph
+git log --oneline --graph --decorate
+git log --oneline --graph --decorate --all
+git log --stat
+git log --patch
+Use the up and down arrows or press enter to view additional log entries. Type q to quit viewing the log and return to the command prompt.
+Make more changes
+Make more changes with the steps used before.
+Add and commit those changes.
+Continue to use git diff and git log -5 to see changes throughout the commit process
+See commit differences between branches: git log <current-branch> ^master
+Update your local environment
+In your command line, go back to the master branch: git checkout master
+Update your local repository: git pull
+Git will delete remote tracking branches that no longer exist: git fetch --prune
+See what branches have been merged into the current branch: git branch --merged
+Delete the branches locally: git branch -d <branch-name>
+
+Divya M @divyam01986 13:05
+Hi when I type git -commit -a to enter a commit message, an editor opens which allows me to type the commit message. I do not however know how to save my message and close the editor. I am using git bash. Could you please explain how to save and close the message and maybe even share this with the rest of the attendees?
+
+Hector Alfaro @halfaro1 13:05
+@Cyndrah the branch your own was created locally today?
+
+lilicaway @lilicaway 13:05
+@crichID is it possible to find the second class recording of Git essentials that you gave last week?
+
+Cynthia Rich @crichID 13:05
+@luecano https://vimeo.com/166273795/bf43c46e11
+
+Cyndrah @Cyndrah 13:06
+yes it was.
+
+Luis Cano @luecano 13:06
+thanks
+
+Hector Alfaro @halfaro1 13:06
+@Cyndrah ok, if you created it locally you can push it up to the remote using git push -u origin <your-branch-name>
+
+Divya M @divyam01986 13:07
+@halfaro1 Hi when I type git -commit -a to enter a commit message, an editor opens which allows me to type the commit message. I do not however know how to save my message and close the editor. I am using git bash. Could you please explain how to save and close the message and maybe even share this with the rest of the attendees?
+
+Cynthia Rich @crichID 13:07
+@lilicaway https://vimeo.com/165952161/2d4bc56718
+
+Cyndrah @Cyndrah 13:07
+let me try that.
+
+Hector Alfaro @halfaro1 13:07
+@divyam01986 the default editor is vim you can save and exit from the commit message by typing Esc and :wq
+
+Cyndrah @Cyndrah 13:08
+though status states nothing to commit.
+
+Divya M @divyam01986 13:08
+@halfaro1 thanks, it worked
+
+Hector Alfaro @halfaro1 13:08
+@divyam01986 you can change the default editor by using git config --global core.editor "<command-for-your-preferred-editor> --wait"
+
+Pramod R. @pramodr 13:09
+@crichID thank you for day 2 video. Can you please send the link to day 1?
+
+Hector Alfaro @halfaro1 13:09
+@Cyndrah could you copy and paste the response?
+
+Cynthia Rich @crichID 13:10
+@pramodr https://vimeo.com/165952162/2a75eec4db
+
+Divya M @divyam01986 13:10
+@halfaro1 would you happen to know if I could use notepad++?
+
+akm111 @akm111 13:10
+where can find the video for this class?
+
+Cynthia Rich @crichID 13:10
+@akm111 for day 1?
+
+lilicaway @lilicaway 13:10
+@crichID Thanks!
+
+akm111 @akm111 13:10
+yes please
+
+Cynthia Rich @crichID 13:11
+@divyam01986 yes, you can use notepad++ but the config is a little tricky
+
+Cyndrah @Cyndrah 13:11
+can't copy/paste, using two different machines. however, that looks to have worked, i can now see my branch under Master in the GUI.
+
+Cynthia Rich @crichID 13:11
+@Cyndrah :+1:
+
+Cyndrah @Cyndrah 13:11
+running git status now shows branch is up to date. nothing to commi.
+
+Cynthia Rich @crichID 13:12
+@akm111 https://vimeo.com/166273795/bf43c46e11
+
+Cyndrah @Cyndrah 13:12
+so i should now see my file in Commt section yes?
+
+Divya M @divyam01986 13:12
+@crichID Thanks for the response. Is there any documentation link that you can share where I can read further about changing editor settings?
+
+Cyndrah @Cyndrah 13:12
+sorry, i mean the Pull reqeustes.
+
+Pramod R. @pramodr 13:12
+@crichID Thank you so much. Lastly, Do you have the link to "introduction to github" by Briana on May 9th?
+
+Cynthia Rich @crichID 13:12
+@Cyndrah yes, you should now be able to see your file on the files changed view of the pull request!
+@pramodr https://vimeo.com/165914523/1f45fe5f06
+
+akm111 @akm111 13:13
+thanks, also please send me the link of day2 when available
+
+manjeet88 @manjeet88 13:13
+Are we going to cover fork related topics in this session
+
+Pramod R. @pramodr 13:14
+@crichID Thank you
+
+Cyndrah @Cyndrah 13:14
+looking good. guessing next step is to merge.....
+
+Cynthia Rich @crichID 13:15
+@divyam01986 here you go: git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+@divyam01986 you can also set a path to notepad++ and make that look a lot less awful :wink:
+@Cyndrah yep!
+@manjeet88 we are not going to cover forks this afternoon. I did cover forks in the morning session and would be happy to send you that video when it is done uploading
+@akm111 yes, you will automatically get the videos as a registered attendee of this session
+
+Gerald Anthony Piangco @ubuntux 13:19
+why is it that the deleted branches are shown when patrick runs git pull
+it doesn't show in my shell :(
+
+jfreise @jfreise 13:21
+I appear to be in posh git mode in my powershell window - how do I get out of that?
+
+Cynthia Rich @crichID 13:22
+@ubuntux did you set the git config —global fetch.prune true?
+@jfreise you don’t want to
+
+jfreise @jfreise 13:22
+so when I type anything, crazy stuff happens, typing a g switches to a colon
+
+Cyndrah @Cyndrah 13:23
+i ran git merge master and it stated "already up to date".
+
+Cynthia Rich @crichID 13:24
+@Cyndrah why did you run git merge master?
+
+Cyndrah @Cyndrah 13:24
+yes "git merge master".
+
+Gerald Anthony Piangco @ubuntux 13:24
+@crichID not yet... sorry, my bad
+thanks
+
+Cyndrah @Cyndrah 13:24
+oh, thought i was to run that to finalize the pull request.
+i'm in my update-cyndrah-bio branch.
+
+Cynthia Rich @crichID 13:25
+@Cyndrah sorry I am answering questions and not paying close attention but yeah - all that does is make sure that everything on master has been merged into your branch
+@jfreise you can try using Git Shell (Git Bash) - it is installed with Git
+@jfreise but Posh Git allows Powershell to work with Git so you don’t want to get rid of it
+
+Hamid Rohani @hamid914 13:28
+Is it important to be on which local branch in order to call git fetch?
+
+jfreise @jfreise 13:29
+@crichID I had to close that window, couldn't do anything - it went into some "mode" opened a new git shell, how do I reconnect again?
+
+Cynthia Rich @crichID 13:29
+@hamid914 git fetch doesn’t care which branch you are on - it only matters when you do a git pull
+@jfreise you should be able to just re cd into the repository and you will be back in business
+
+jfreise @jfreise 13:30
+got it, back up :smile:
+
+manjeet88 @manjeet88 13:30
+@crichID - Thanks, please share that whenever its available.
+
+Cynthia Rich @crichID 13:32
+@jfreise :+1:
+@manjeet88 now I need to remember what I promised :wink:
+
+Hamid Rohani @hamid914 13:32
+@crichID thanks :+1:
+
+Cynthia Rich @crichID 13:33
+@manjeet88 oh yeah, the video - can you send me a message at services@github.com so I have your email address?
+
+manjeet88 @manjeet88 13:33
+Sure
+
+breadraptor @breadraptor 13:34
+I edited the readme to remove the conflict and removed the "conflict markers", saved and closed, when I git status it still says both modified
+ah, nevermind
+missed the git add
+
+Cynthia Rich @crichID 13:36
+@breadraptor :heart:
+
+Sang Lee @SangHLee 13:38
+@crichID Where can I find yesterday's video? Thanks in advance
+
+Livia Labate @livlab 13:39
+what's the url for the reference he just mentioned?
+
+Cynthia Rich @crichID 13:40
+@livlab git-scm.com
+@SangHLee https://vimeo.com/166273795/bf43c46e11
+
+
+Sang Lee @SangHLee 13:41
+@crichID Thank you!
+
+Hector Alfaro @halfaro1 13:41
+@livlab the book Pro Git? It's here https://git-scm.com/book/en/v2
+
+Theodore Salvo @buzzsurfr 13:51
+Just to confirm, what Patrick is showing with the commits and merges can be viewed per repo on the Network Graph, correct?
+
+Hector Alfaro @halfaro1 13:53
+@buzzsurfr the network graph is a visualization of what's happening but I still consider it an abstraction of the internals
+
+Briana Swift @brianamarie 13:53
+Day 2, Section 2 notes:
+Make local changes
+Create a new branch and checkout to the branch at the same time by typing git checkout -b username-readme-update
+Edit the readme.md file with your text editor so the link on line 5 reflects your username instead of githubschool
+Save those changes, and exit the text editor
+Type git status to see your current branch and current stages of each file
+Share changes to GitHub
+Type git add readme.md to move your files from working to staging
+Type git commit -m "update link in readme" to move files to history
+To push the changes to the remote repository in the correct branch to reflect your local branch, type git push -u readme-update.
+See your changes on GitHub.com
+Merge Conflicts
+Open a new pull request
+You will see there is a merge conflict!
+We are going to resolve the conflict on our branch and make sure it works out with a reverse merge. This is when you merge master into your feature branch.
+Locally, checkout to your own branch.
+git merge --no-ff master
+git status
+Open the README.md again. You'll look for the conflict markers. Delete the copy of the content you don't want to keep as well as the merge conflict markers. Save and close.
+git add README.md
+git status
+git commit -m "enter commit message here"
+git status
+git push
+Feel free to practice more with merge conflicts later on this repository.
+Reverting Commits
+git revert creates a new commit that is the exact opposite of the selected commit. This is important to note when thinking about impact on history!
+Revert a commit by typing git revert <first-4-of-commit#>.
+Fixing the broken game
+See the commit history: git lol.
+Find the commit where index.html was renamed to inde.html and copy the first 4 characters of that commit ID
+Revert that commit: git revert <first-4-characters>.
+Complete the commit message in your text editor, save, and close.
+Push your local changes to the remote repository: git push mygame.
+See your working game by going to the new link in the README on your remote repository.
+Patrick showed the differences between fast forward merges, recursive merges, and three way merges
+Overview for conceptual understanding
+To follow along:
+git checkout master
+git log --oneline --decorate -5
+git status
+git merge origin/master
+git log --oneline --decorate -5
+Pull requests default to fast forward merge if possible, which does not create a commit
+To force a recursive merge and a commit message, use git merge --no-ff <branchname>
+Remember, when you delete a branch, you're only really deleting a pointer to a commit.
+Also available here: githubteacher/fluffy-octo-guacamole#175
+
+karenzapata19 @karenzapata19 14:03
+@brianamarie Thanks for the outlines and link to the day 1 session. I attended last week's 2-day session training on Git. Do you know when / where those videos will be posted?
+
+Hector Alfaro @halfaro1 14:05
+@karenzapata19 if you scroll up :point_up: you'll see some links that were provided to previous videos. Cynthia went off chat so she can get those emails sent out with the follow-up videos so you should be getting the emails soon. But they're all linked in this chat.
+
+karenzapata19 @karenzapata19 14:05
+@halfaro1 thank you!
+
+Theodore Salvo @buzzsurfr 14:11
+What's the "nuclear" :fire: command of removing a file AND its history (or a link to it)?
+
+Cynthia Rich @crichID 14:12
+@buzzsurfr git filter-branch
+
+David Coy @obsidianspork 14:13
+How do you have tab completion for git commands?
+
+Hector Alfaro @halfaro1 14:14
+@obsidianspork https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks#Auto-Completion
+
+David Coy @obsidianspork 14:14
+Thank you @halfaro1 you da :bomb:
+
+rajakumare1 @rajakumare1 14:17
+Hi. If I see the branch is ahead even after we run git merge orgin/master under master, is it okay.
+
+
+Hector Alfaro @halfaro1 14:18
+@rajakumare1 it means there's commits locally that you haven't pushed to github, that's OK
+but remember to work on your own branch whenever possible
+
+rajakumare1 @rajakumare1 14:21
+
+okay. Thanks!!
+
+sktay @sktay 14:24
+is audio breaking up for anyone else?
+
+jfreise @jfreise 14:24
+got some freezing going on...
+
+mscerutti @mscerutti 14:24
+yes
+
+Theodore Salvo @buzzsurfr 14:24
+Losing audio :headphones: and I'm on the phone bridge.
+
+Sang Lee @SangHLee 14:24
+@crichID audio is breaking up for me
+
+rajakumare1 @rajakumare1 14:24
+yes
+
+Hector Alfaro @halfaro1 14:24
+Hang tight @/all -- yes we're letting Patrick now to rewind a bit.
+
+rajakumare1 @rajakumare1 14:24
+lost audio
+
+David Coy @obsidianspork 14:24
+@patrickmckenna don't leave us!
+
+allplamp @allplamp 14:24
+yes, audio breaking up
+
+Luis Cano @luecano 14:24
++1
+
+mscerutti @mscerutti 14:24
+meeting is not updating either.
+
+Theodore Salvo @buzzsurfr 14:25
+@patrickmckenna, time to upgrade from dial-up!
+
+john-bailey @john-bailey 14:25
+is frozen
+
+allplamp @allplamp 14:25
+back up!
+
+David Pearson @GrecoJava 14:25
+is he loosing his network?
+
+Alex Zuniga @alexanderzuniga 14:25
+yep :)
+
+David Coy @obsidianspork 14:25
+I can hear you pretty well!
+
+J. Sebastian Tello @jsebastiantello 14:25
+The audio is back!
+
+cwanb @cwanb 14:25
+Yes I can hear it now.
+
+Theodore Salvo @buzzsurfr 14:25
+Sounds better.
+
+Sang Lee @SangHLee 14:25
+yeap :)
+
+David Coy @obsidianspork 14:25
+:fire:
+
+john-bailey @john-bailey 14:25
+:+1:
+
+Hector Alfaro @halfaro1 14:25
+I was wondering if everyone was still awake -- this was totally on purpose ;)
+
+Theodore Salvo @buzzsurfr 14:26
+@halfaro1 :laughing:
+
+Gerald Anthony Piangco @ubuntux 14:26
+@halfaro1 :laughing:
+
+sktay @sktay 14:27
+uh oh ... sound's going again
+wait ... better now
+
+Theodore Salvo @buzzsurfr 14:29
+:hear_no_evil: :headphones:
+
+Gerald Anthony Piangco @ubuntux 14:29
+audio breaking again :(
+
+allplamp @allplamp 14:29
+yep...
+
+mixolidia @mixolidia 14:29
+audio is breaking up again
+
+rajakumare1 @rajakumare1 14:29
+yep
+
+mixolidia @mixolidia 14:30
+Will we be able to hear the audio on the video?
+
+lilicaway @lilicaway 14:30
+here again
+audio issues
+
+rajakumare1 @rajakumare1 14:30
+still not better
+
+mixolidia @mixolidia 14:30
+Is it recording & not transmitting?
+
+allplamp @allplamp 14:30
+now yes
+
+jcon5 @jcon5 14:30
+Yes
+
+Luis Cano @luecano 14:30
+yup
+
+mixolidia @mixolidia 14:30
+now yes
+
+lilicaway @lilicaway 14:30
+now is better
+
+Frank H. Zambrano @Frankhzm 14:30
+Will the video produced likely have these audio outages?
+
+sktay @sktay 14:30
+I can hear now
+
+Theodore Salvo @buzzsurfr 14:30
+better
+
+rajakumare1 @rajakumare1 14:30
+yup
+
+Gerald Anthony Piangco @ubuntux 14:30
+back to normal now
+
+lilicaway @lilicaway 14:31
+good now
+
+Theodore Salvo @buzzsurfr 14:31
+May need a git reset to go back a few minutes in the video :laughing:
+
+Gerald Anthony Piangco @ubuntux 14:31
+@buzzsurfr :laughing:
+
+Hector Alfaro @halfaro1 14:32
+Hey folks -- looks like we're back to being OK. If it happens again we have a backup plan.
+
+Theodore Salvo @buzzsurfr 14:32
+@halfaro1 `git branch halfaro1 :question:
+
+Hector Alfaro @halfaro1 14:32
+git checkout crichid is more like it ;) @buzzsurfr
+
+Theodore Salvo @buzzsurfr 14:33
+git add . is also good when you have an existing folder but are creating a new repository.
+
+Gerald Anthony Piangco @ubuntux 14:34
+what happens if you don't specify a hash when you do git reset?
+
+Theodore Salvo @buzzsurfr 14:37
+@ubuntux I think it resets to HEAD by default, which means it won't make any changes.
+
+Stéphane Gerber @stephane303 14:38
+I guess you only use RESET with commit you haven't pushed or am I wrong ?
+
+Gerald Anthony Piangco @ubuntux 14:38
+another question... the reflog shows several log hashes, and also similar hashes but different HEAD@{n}. how to reset to specific HEAD@{n} of the same hash?
+
+Hector Alfaro @halfaro1 14:38
+@stephane303 you should only use reset on local commits that have never lived on a remote
+
+Gerald Anthony Piangco @ubuntux 14:39
+that's based on what I am currently seeing on Patrick's screen
+
+Hector Alfaro @halfaro1 14:39
+@ubuntux the reflog shows multiple items related to the same SHA, so you'd reset to a previous commit
+
+Gerald Anthony Piangco @ubuntux 14:39
+oops! he already cleared it :D
+
+Hector Alfaro @halfaro1 14:40
+@ubuntux it's a good question though so I'll make sure patrick covers it verbally also
+
+Gerald Anthony Piangco @ubuntux 14:40
+thanks @halfaro1
+
+Cyndrah @Cyndrah 14:47
+will this chat room be kept available?
+as reference.
+
+Hector Alfaro @halfaro1 14:47
+@Cyndrah as long as Gitter will leave it up :)
+
+Cyndrah @Cyndrah 14:48
+:)
+
+Hector Alfaro @halfaro1 14:48
+but I can save the txt of the chat on the class repo @cyndrah
+
+rajakumare1 @rajakumare1 14:48
+audio lost
+
+Cynthia Rich @crichID 14:48
+@rajakumare1 I can still hear OK
+
+Hector Alfaro @halfaro1 14:48
+@rajakumare1 I can hear OK -- maybe it's just a blip in your connection?
+
+rajakumare1 @rajakumare1 14:48
+ok
+
+cwanb @cwanb 14:48
+I'm good with audio.
+
+Stéphane Gerber @stephane303 14:49
+Just for fun ... you will have been warned : https://www.youtube.com/watch?v=UllNDRXR1vM
+
+rajakumare1 @rajakumare1 14:49
+Is rebase important topic
+
+David Coy @obsidianspork 14:49
+@Cyndrah You can click on the slider icon on the top right in the window, then archives. You can then choose the days that were were here. It will open a window with the history of the chat. Copy-Paste into a file for reference
+
+Hector Alfaro @halfaro1 14:50
+@ubuntux this is for you
+
+mscerutti @mscerutti 14:50
+does that cherry-pick have to be done in master? How do you get it into a specific branch?
+
+Theodore Salvo @buzzsurfr 14:50
+Suggestions: what to do when you don't have write access (forking/pull requests)
+or how to use semantic versioning within GitHub (protected branches, etc)
+
+rajakumare1 @rajakumare1 14:51
+does reflog have history of the branch from the github
+Or only our local machine history
+
+breadraptor @breadraptor 14:51
+@stephane303 lol
+
+Gerald Anthony Piangco @ubuntux 14:54
+on the Patrick's screen now, there's a sha e875304 but has 2 different HEAD@{n}, one is HEAD@{17} and the other is HEAD@{18}
+
+Cynthia Rich @crichID 14:54
+@ubuntux the reflog records everytime HEAD moved. In that case, HEAD pointed to that commit on more than one occasion!
+
+Gerald Anthony Piangco @ubuntux 14:54
+how to reset to 17 or 18, when the syntax to reset is git reset e875304 <filename>
+if i run reset for specific sha, will it reset to the most recent HEAD@{n}?
+
+Cynthia Rich @crichID 14:56
+@ubuntux you would just do git reset —hard e875304
+
+JohnAtCL @JohnAtCL 14:57
+@brianamarie do we have the Summary for the 3rd section?
+
+Cynthia Rich @crichID 14:58
+@ubuntux the HEAD@{n} doesn’t actually contain unique data - so the repository at 17 and 19 are the same if they have the same SHA-1 hash
+
+rajakumare1 @rajakumare1 14:58
+Hi, Is rebase a important topic
+
+Gerald Anthony Piangco @ubuntux 14:58
+ok... i get it now
+
+Briana Swift @brianamarie 14:58
+@JohnAtCL Yes - https://github.com/githubteacher/fluffy-octo-guacamole/issues/175#issuecomment-218852342 - I'll post the long version here in chat once we finish up Q&A.
+
+Stéphane Gerber @stephane303 14:59
+http://betterexplained.com/articles/aha-moments-when-learning-git/
+
+Theodore Salvo @buzzsurfr 14:59
+Is there an intermediate/advanced class?
+
+Frank H. Zambrano @Frankhzm 15:00
+Can we download/copy this gitter stream?
+
+Cynthia Rich @crichID 15:00
+@buzzsurfr we used to have one but we stopped doing it for a while - just curious, what would you envision something like that containing?
+
+jfreise @jfreise 15:01
+Thanks guys! Nice class @patrickmckenna
+
+Hector Alfaro @halfaro1 15:01
+@Frankhzm you're welcomed to grab the chat, I'll post a backup of it on our class repo
+
+Anne @AnnieGitUrGun 15:01
+Thanks @patrickmckenna !
+
+Briana Swift @brianamarie 15:01
+Day 2, Section 3 Notes:
+Helpful Git Commands
+We made a new file, and renamed it with git mv
+Make sure your local repository is up to date: git pull
+Create a new branch and checkout to it: git checkout -b demo-undoing-things
+See the files: ls
+Move a file: git mv hello.txt bios/hello.txt
+git status
+git commit -m "enter commit message"
+Remove files with git rm
+Delete a file and stage the deletion git rm jt_bio.md
+git status
+git commit -m "demo deleting files"
+See the commits that have worked with a given file: git log -- bios/hello.txt
+See all of those, including renames: git log --follow -- bios/hello.txt
+Undo one commit with Revert
+See all recent history: git log --oneline --decorate -5
+Revert a single commit by using the first four characters of the commit ID: git revert <first-four-chars>
+This creates a new commit with a new ID and it does the opposite of everything done in the referenced commit. It is the safest way to undo changes.
+Commit amend
+Make another change to a local file, like your bio.
+Add the changes, and make a commit.
+Make another change and add it, but do not commit it.
+To change the previous commit to include your most recent changes, type: git commit -a --amend
+It is unsafe to use this command after a commit has been pushed to a remote repository, as you are rewriting history.
+Rewriting History With Git Reset
+git reset moves the branch pointer along the current branch
+To practice, create a new branch: git checkout -b <demo-branch-name>
+Add text to the README with: echo 'lorem ipsum' >> README.md
+Commit these changes with git commit -am"add first dummy line
+Add more files
+echo 'a second line' >> README.md
+git commit -am"a second line"
+echo 'a third line' >> README.md
+git commit -am"a third line"
+See your recent log history: git lga-5
+Reset soft back to one of the earlier commits: git reset --soft <first 4 of commit ID>
+See that log: git lga -5
+Check our status to see what is staged: git status
+git diff --staged
+git commit -m"add additional two lines"
+git reset soft moves head and moves the files back to staging
+The default for git reset is git reset --mixed.
+Try it with git reset <first four of commit ID>
+Don't forget to use git lga -5 and git status to see how it works
+Now, let's use git reset --hard <first 4 of commit ID>
+Warning: If you git reset --hard and there are uncommitted changes, they will be gone forever. :(
+See how these changes work with git log --oneline, git status, and cat README.md
+Tracking HEAD with Git Reflog
+In case you were worried that git reset had done some damage to your commits, you should know about git reflog
+git reflog shows every place your HEAD has been, including commits and resets.
+This means you can git reset back to the commits you just got rid of!
+Warning: The commits in the reflog do not live forever!
+Reflog information exists only 30-90 days based on your settings.
+Reflog information is only local - not on the remote repository or any other collaborator's repositories
+Git cherry-pick
+This command, git cherry-pick is not part of the every-day workflow
+git cherry-pick will bring back specific commits that may have been undone with git reset
+It's also used to grab a single commit off of a feature branch and replay it on master.
+Practice by typing git cherry-pick <commit-ID> of a commit that has been undone
+It's important to only use git cherry-pick with commits that have not been pushed to a remote repository as it changes the commit ID of the same information
+Merge Strategies: Rebase
+About Rebase
+The rebase command enables you to modify your commit history in a variety of ways.
+Because changing your commit history can make things difficult for everyone else using the repository, it’s considered bad practice to rebase commits you’ve already pushed to a repository.
+
+allplamp @allplamp 15:02
+Link to book mentioned earlier?
+
+Gerald Anthony Piangco @ubuntux 15:02
+audio is breaking up again :(
+
+David Coy @obsidianspork 15:02
+@patrickmckenna @halfaro1 @crichID Great job and thank you for the explaining everything!
+
+Gerald Anthony Piangco @ubuntux 15:02
+audio back up
+:D
+
+Theodore Salvo @buzzsurfr 15:02
+:checkered_flag: TYVM to @patrickmckenna @crichid @halfaro1 @brianamarie
+
+rajakumare1 @rajakumare1 15:02
+Thank you a lot
+
+Dmitriy Khabarov @jdim 15:02
+Thanks!
+
+Hector Alfaro @halfaro1 15:02
+@allplamp here is Pro Git: https://git-scm.com/book/en/v2
+
+Marcus Mendes Maciel @marcusmendes 15:02
+Thank you!
+
+Briana Swift @brianamarie 15:02
+This room is no longer active. Please visit https://services.github.com/, https://help.github.com/, or email services@github.com with further questions.
+You will be sent a recording of the classes soon.
+
+john-bailey @john-bailey 15:02
+Thanks!!!
+
+sktay @sktay 15:02
+thanks all. Great class
+
+Gerald Anthony Piangco @ubuntux 15:03
+thanks @patrickmckenna @crichID @halfaro1 @brianamarie
+
+Farfi @Farfi 15:03
+Thanks
+
+Hector Alfaro @halfaro1 15:03
+Bye all!
+
+allplamp @allplamp 15:03
+@halfaro1 thanks!
+
+Stéphane Gerber @stephane303 15:03
+I enjoyed the class, thank you !
+
+mixolidia @mixolidia 15:04
+I enjoyed the class. Thank You! 😃 Bye all!
+
+Theodore Salvo @buzzsurfr 15:04
+@crichid more of the Git/GitHub integrations, possibly touch on GHE, Hooks & Services, Pulse/Graphs, Gist
+
+Gerald Anthony Piangco @ubuntux 15:05
+i'd like to learn about that too... @buzzsurfr thanks for mentioning
+
+Theodore Salvo @buzzsurfr 15:05
+Maybe more on actually using semantic versioning too. This sets it up, but actually running through would help like it did for me today.
+
+Gerald Anthony Piangco @ubuntux 15:06
+add "tagging"
+
+Cynthia Rich @crichID 15:06
+@buzzsurfr @ubuntux that is super helpful - the problem we had was that advanced meant so many different things to different people that no one was really happy, so we decided to step back and focus on this as a core class but I dream of going back to these more advanced topics!
+
+Cyndrah @Cyndrah 15:06
+wonderful class, i have much to review...

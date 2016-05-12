@@ -1,0 +1,1364 @@
+Briana Swift @brianamarie May 11 11:43
+Hello! :wave:
+
+Hamid Rohani @hamid914 May 11 12:00
+Hi :hand:
+
+Hector Alfaro @halfaro1 May 11 12:01
+Hello friend :wave: @hamid914
+
+Gerald Anthony Piangco @ubuntux May 11 12:05
+greetings!
+
+Cynthia Rich @crichID May 11 12:05
+@hamid914 :wave: you must REALLY like learning about GitHub!
+
+Farfi @Farfi May 11 12:05
+Hi there
+
+Cynthia Rich @crichID May 11 12:05
+@ubuntux Welcome back!
+
+Gerald Anthony Piangco @ubuntux May 11 12:05
+thanks @crichID
+
+manojdatar @manojdatar May 11 12:06
+hi :wave:
+
+freebong3 @freebong3 May 11 12:06
+Hi :hand:
+
+Carlos Rojas @sadhu89 May 11 12:06
+Hi
+
+jcon5 @jcon5 May 11 12:06
+Hi Everyone!
+
+jinnatan @jinnatan May 11 12:06
+Hi
+
+nehakgoyal @nehakgoyal May 11 12:06
+Hello!
+
+Frank H. Zambrano @Frankhzm May 11 12:06
+Hello
+
+mixolidia @mixolidia May 11 12:06
+Hi :wave:
+
+Rohini @rsc2015 May 11 12:06
+Hi!
+
+cwanb @cwanb May 11 12:06
+HI
+
+J. Sebastian Tello @jsebastiantello May 11 12:06
+Hello from St. Louis, MO!
+
+Sorin Ruse @sorinr May 11 12:06
+Hi Patrik
+
+dmeyf @dmeyf May 11 12:06
+hello
+
+Pete Thompson @thompets May 11 12:06
+hello
+
+David Coy @obsidianspork May 11 12:06
+Hello!
+
+Alvaro Azpeitia @azpevico May 11 12:06
+hi
+
+sclou******** @sclou******** May 11 12:07
+Anyone know how to connect to demo repo on github.com from an enterprise network behind a firewall? I get a 503 error.
+
+john-bailey @john-bailey May 11 12:07
+Hi
+
+Elliot Martinez @ElJoMartinez May 11 12:07
+howdy!
+
+Anna Nguyen @nguyengithub May 11 12:07
+hello
+
+allplamp @allplamp May 11 12:07
+Hi!
+
+Hamid Rohani @hamid914 May 11 12:07
+@crichID :smile: :+1: Deep learning by repeating and discovering :D
+
+Hector Alfaro @halfaro1 May 11 12:07
+Welcome everyone! If you have questions or just want to chat, feel free to do so here. Folks from :octocat: that are here are: @halfaro1 @brianamarie and @crichID. On the mic is Patrick.
+
+Cynthia Rich @crichID May 11 12:08
+@sclou******** you will need a GitHub.com account for today’s class! We will do all of our work on .com today and tomorrow. You can always delete the account if you don’t want it after class!
+
+Gerald Anthony Piangco @ubuntux May 11 12:08
+@hamid914 and meeting new people :thumbsup:
+right? :D
+
+maxvohiken @maxvohiken May 11 12:08
+Hi any way to reduce the echo in the room?
+
+Hamid Rohani @hamid914 May 11 12:09
+@crichID You forgot to describe Milestone in previous session, not?
+
+sclou******** @sclou******** May 11 12:09
+@crichID I did set up an account already on their but receiving error when cloning my test repo.
+fatal: unable to access 'https://github.com/sclou********/TrainingTest.git/': The requested URL returned error: 503
+
+Cynthia Rich @crichID May 11 12:09
+@hamid914 yes I did! I’m sorry! I just made a note for tomorrow morning
+@sclou******** are you behind a proxy server by chance?
+
+sclou******** @sclou******** May 11 12:10
+@crichID yes, we are
+
+mixolidia @mixolidia May 11 12:10
+Hi, my git version is 2.5.4. Do I need to update it?
+
+Briana Swift @brianamarie May 11 12:11
+@mixolidia Nope, you're good to go. Any version after 1.9 will work for this class :smile:
+
+Cynthia Rich @crichID May 11 12:11
+@sclou******** you will need to config the proxy server. Use git config —global http.proxy <proxy-address>
+
+Hamid Rohani @hamid914 May 11 12:11
+@ubuntux to learn from Github teachers :wink:
+
+DonaldSoar @DonaldSoar May 11 12:11
+Hi Everybody
+
+Cynthia Rich @crichID May 11 12:12
+@sclou******** that is two -’s in front of global
+
+Hector Alfaro @halfaro1 May 11 12:12
+@DonaldSoar hi! :wave:
+
+Gerald Anthony Piangco @ubuntux May 11 12:12
+@hamid914 agreed... high five!
+
+mixolidia @mixolidia May 11 12:12
+Thanks @brianamarie :smile:
+
+sclou******** @sclou******** May 11 12:12
+@crichID ok, I have previously tried this with username and password specified, but I will try it without that and just the domain/ip
+@crichID ok, the error I get now is: ssh: connect to host github.com port 22: Connection timed out
+I dont believe outbound port 22 is enable on our firewalls
+
+Hamid Rohani @hamid914 May 11 12:15
+Unlimited private repositories are introduced today, am I right?
+
+J. Sebastian Tello @jsebastiantello May 11 12:15
+is there a limit to the size of files or projects in the free or paid accounts?
+
+Briana Swift @brianamarie May 11 12:15
+@hamid914 That's right! More info on private repos here: https://github.com/blog/2164-introducing-unlimited-private-repositories
+
+Hector Alfaro @halfaro1 May 11 12:15
+@hamid914 yup pretty new :)
+@jsebastiantello yes - https://help.github.com/articles/what-is-my-disk-quota/
+
+Cynthia Rich @crichID May 11 12:16
+@sclou******** do you have SSH keys set up on your machine?
+
+Hamid Rohani @hamid914 May 11 12:17
+@brianamarie @halfaro1 That is great. I retweeted in twitter to share this happiness :D
+
+Briana Swift @brianamarie May 11 12:17
+@hamid914 :bird: :tada:
+
+sclou******** @sclou******** May 11 12:17
+@crichID I generated a new SSH key, and I added it to my SSH Keys on github in my account settings. Maybe I missed a step though!?
+
+Cynthia Rich @crichID May 11 12:18
+And you used the SSH clone URL?
+@sclou******** ^^
+
+Gerald Anthony Piangco @ubuntux May 11 12:19
+where can I see that script?
+
+sclou******** @sclou******** May 11 12:19
+@crichID yes, I used this: git clone git@github.com:sclou********/TrainingTest.git
+
+Livia Labate @livlab May 11 12:19
+What's the repo for this script?
+
+Hector Alfaro @halfaro1 May 11 12:19
+@livlab @ubuntux it's open source https://github.com/github/training-utils
+it's on the root directory there
+
+Livia Labate @livlab May 11 12:20
+thx
+
+Gerald Anthony Piangco @ubuntux May 11 12:20
+add-collaborator?
+
+Cynthia Rich @crichID May 11 12:20
+@ubuntux yes
+
+Hector Alfaro @halfaro1 May 11 12:20
+Yup @ubuntux
+
+Hamid Rohani @hamid914 May 11 12:20
+How to bring up that cheatsheet of keyboard shortcuts?
+
+david-zaletanski @david-zaletanski May 11 12:20
+where do i turn off notifications for this issue ><
+
+Hector Alfaro @halfaro1 May 11 12:20
+@hamid914 shift+?
+
+nehakgoyal @nehakgoyal May 11 12:20
+I am not able to comment
+not sure if i was added
+
+Briana Swift @brianamarie May 11 12:21
+@nehakgoyal I see your comment here: https://github.com/githubteacher/fluffy-octo-guacamole/issues/3#issuecomment-218510944
+
+Gerald Anthony Piangco @ubuntux May 11 12:21
+@halfaro1 kewlness! thanks!
+
+Hector Alfaro @halfaro1 May 11 12:21
+@david-zaletanski the easiest thing to do is go to the issue and select "unsubscribe" on the right
+
+Briana Swift @brianamarie May 11 12:21
+@nehakgoyal You have been added as a collaborator :smile:
+
+Cynthia Rich @crichID May 11 12:21
+@sclou******** did you verify your email address on your GitHub account?
+
+Hector Alfaro @halfaro1 May 11 12:21
+@david-zaletanski Patrick will probably go through that soon
+
+Hamid Rohani @hamid914 May 11 12:21
+@halfaro1 WOW :clap: new trick
+
+nehakgoyal @nehakgoyal May 11 12:21
+Thanks @brianamarie
+
+breadraptor @breadraptor May 11 12:22
+Is the preferred way to use Git command line on windows the Powershell or Git Bash?
+
+Forrest Pugh @fpugh May 11 12:22
+Might wanna cover the Subscribe/Unsubscribe for the comments: I just got email-jailed because my corporate email filled up....
+
+Cynthia Rich @crichID May 11 12:22
+@breadraptor either one will work
+
+Hector Alfaro @halfaro1 May 11 12:22
+@fpugh oh no!
+
+Forrest Pugh @fpugh May 11 12:22
+Thanks...
+
+sclou******** @sclou******** May 11 12:25
+@crichID I did not have the correct email there... so I added it, clicked verification email, (and completed this), but it is still not working. Do I need to re-generate SSH keys?
+
+Cynthia Rich @crichID May 11 12:25
+@sclou******** yes!
+
+Hamid Rohani @hamid914 May 11 12:27
+Is it possible to increase the font size of terminal?
+
+Gerald Anthony Piangco @ubuntux May 11 12:27
+regarding distributed vcs, what happens when the server becomes unavailable? are the repository members will still be able to collaborate?
+
+Hector Alfaro @halfaro1 May 11 12:27
+@hamid914 I'll pass it along
+
+Briana Swift @brianamarie May 11 12:28
+Link Patrick is referring to: https://services.github.com/
+
+Hamid Rohani @hamid914 May 11 12:29
+Thanks @halfaro1
+
+Cynthia Rich @crichID May 11 12:29
+@ubuntux if the server becomes unavailable then you can still work locally but you cannot push or pull until it comes back online
+
+Hector Alfaro @halfaro1 May 11 12:30
+hehe thanks @crichID she beat me to it ;)
+
+Gerald Anthony Piangco @ubuntux May 11 12:30
+about "git config" comman, what if you don't specify any --command?
+
+Cynthia Rich @crichID May 11 12:31
+@ubuntux it will try to set it in the specific repository which is the default behavior (also can be specified with —local
+
+DonaldSoar @DonaldSoar May 11 12:31
+What if we want the email to be private
+
+Gerald Anthony Piangco @ubuntux May 11 12:32
+@crichID any way for the other member to be the server? what if the server went down? is there a way to revive it using one of the member's copy? or is there better way to do that? (sorry not sure if it's ok to ask such)
+@crichID about the "git config" question, thanks...
+
+Hector Alfaro @halfaro1 May 11 12:33
+@DonaldSoar check this article out
+
+DonaldSoar @DonaldSoar May 11 12:33
+Thanks
+
+cwanb @cwanb May 11 12:33
+Should core.autocrlf be set automatically during installation?
+
+Cyndrah @Cyndrah May 11 12:33
+Is there a difference between these downloads: Git vs Git-Hub Setup?
+
+Hector Alfaro @halfaro1 May 11 12:33
+Depends on how you installed git @cwanb -- it is on GitHub Desktop and I believe the most recent installers for Windows walk you through setting it with the GUI
+@Cyndrah yes, GitHub Desktop includes a the GitHub Desktop App, Git, and Git Shell (if on Windows), git is just the command line git program
+@Cyndrah for the purposes of this class, git is sufficient, but GitHub Desktop is :+1: also
+
+Gerald Anthony Piangco @ubuntux May 11 12:35
+just to confirm,
+core.autocrlf input <-- for Mac or Linux
+core.autocrlf true <-- for Windows
+
+Hamid Rohani @hamid914 May 11 12:37
+Is there any situations not to set fetch.prune to true?
+
+Cynthia Rich @crichID May 11 12:37
+@ubuntux yes, old school Git users pass around patches via email. You could certainly resort to that in moments of desperation but I don’t recommend it!
+@ubuntux correct on the autocrlf settings
+
+Livia Labate @livlab May 11 12:37
+what has he done to his terminal to have (master) displaying?
+
+sclou******** @sclou******** May 11 12:37
+@crichID I set "user.email", re-generated SSH key, re-imported to github account, but still getting this error "ssh: connect to host github.com port 22: Connection timed out".
+
+Gerald Anthony Piangco @ubuntux May 11 12:38
+@crichID thanks for answering my questions :thumbsup:
+
+cemopg @cemopg May 11 12:38
+I'm not sure if I'm using the right program but I think it's working
+
+Hamid Rohani @hamid914 May 11 12:38
+I got this error after cloning with SSH:
+Cloning into 'fluffy-octo-guacamole'...
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Cynthia Rich @crichID May 11 12:38
+@livlab you can create the same behavior using these instructions: https://gist.github.com/githubteacher/e75edf29d76571f8cc6c
+
+cemopg @cemopg May 11 12:38
+I see my computer name and user name
+
+Hector Alfaro @halfaro1 May 11 12:39
+@hamid914 if you didn't want to clean up outdated references, say you had some work locally that is no longer on the remote
+
+Livia Labate @livlab May 11 12:39
+@crichID thanks!
+
+Cynthia Rich @crichID May 11 12:39
+@sclou******** and https is still not working after the proxy config?
+
+Hector Alfaro @halfaro1 May 11 12:39
+@cemopg can I help you figure out anything?
+
+PaPolzin @PaPolzin May 11 12:40
+git clone failed with a 503 error for me
+
+cemopg @cemopg May 11 12:40
+@halfaro1 is it OK if my prompt looks different than the instructor's? I'm on Windows 7
+
+Hector Alfaro @halfaro1 May 11 12:40
+@cemopg yes, Patrick has customized his terminal
+
+Cynthia Rich @crichID May 11 12:41
+@PaPolzin are you behind a proxy server?
+
+Tinman******** @Tinman******** May 11 12:41
+Cloning into 'fluffy-octo-guacamole'...
+ssh: connect to host github.com port 22: Connectio
+fatal: Could not read from remote repository.
+any idea?
+
+Hector Alfaro @halfaro1 May 11 12:41
+@hamid914 is this the first time you clone via SSH?
+
+cemopg @cemopg May 11 12:41
+my prompt says my username@my computer name MINGW64 /p/fluffy....etc.
+
+PaPolzin @PaPolzin May 11 12:41
+probably
+
+Tinman******** @Tinman******** May 11 12:41
+yes
+
+Hector Alfaro @halfaro1 May 11 12:41
+@cemopg that's OK -- have you been able to type the commands that Patrick has typed in?
+
+Tinman******** @Tinman******** May 11 12:42
+yes
+
+Hamid Rohani @hamid914 May 11 12:42
+@halfaro1 yes
+
+Tinman******** @Tinman******** May 11 12:42
+user name and email and all
+
+rajakumare1 @rajakumare1 May 11 12:42
+I have my corporate account already set up in my laptop.
+
+cemopg @cemopg May 11 12:42
+@halfaro1 I think so
+
+rajakumare1 @rajakumare1 May 11 12:42
+https://gitter.im/githubteacher/fluffy-octo-guacamole
+
+Hector Alfaro @halfaro1 May 11 12:43
+Ah, you'll need to generate an SSH key -- documentation here
+
+staaal @staaal May 11 12:43
+received the error message Please make sure you have the correct access rights. I'm using SSL
+
+Cynthia Rich @crichID May 11 12:43
+@PaPolzin if you are behind a proxy server you will need to set git config —global http.proxy <proxy-address> and then try to clone with https
+
+rajakumare1 @rajakumare1 May 11 12:43
+I using corporate account setup in my laptop. It is throwing error when I use clone
+
+Hector Alfaro @halfaro1 May 11 12:43
+@cemopg :+1: as long as you've been able to type the commands you're good to go. You'd be getting some pretty nasty error messages if you didn't have it correctly installed. Just to double check, what does your command prompt say when you type git --version
+
+Tinman******** @Tinman******** May 11 12:43
+2.7.x
+
+cemopg @cemopg May 11 12:44
+@halfaro1 git version 2.8.2.windows.1
+
+david-zaletanski @david-zaletanski May 11 12:44
+can try, git config --global http.sslVerify false
+
+Cynthia Rich @crichID May 11 12:44
+@Tinman******** ^^ same as message above: if you are behind a proxy server you will need to set git config —global http.proxy <proxy-address> and then try to clone with https
+
+david-zaletanski @david-zaletanski May 11 12:44
+not the safest but.. yeah...
+
+Tinman******** @Tinman******** May 11 12:44
+2.8.1.windows.1
+that' s what i have
+
+rajakumare1 @rajakumare1 May 11 12:44
+blob
+
+Hector Alfaro @halfaro1 May 11 12:45
+@cemopg you're doing great then :tada:
+
+cemopg @cemopg May 11 12:45
+@halfaro1 Thanks!
+
+PaPolzin @PaPolzin May 11 12:45
+that worked for me, thx
+
+staaal @staaal May 11 12:46
+not sure where to find proxy address
+
+Cynthia Rich @crichID May 11 12:46
+@rajakumare1 you would need to have SSH keys set up for the github account you are using today. Perhaps try using https to clone instead?
+
+rajakumare1 @rajakumare1 May 11 12:46
+thanks
+
+PaPolzin @PaPolzin May 11 12:46
+proxy = version
+
+Tinman******** @Tinman******** May 11 12:46
+No luck
+
+M.C.S.D. Jorge Apodaca @licjapodaca May 11 12:46
+Could you run the script again please to be a repo collaborator :)
+
+Gerald Anthony Piangco @ubuntux May 11 12:46
+is it possible to reject a PR?
+
+Hamid Rohani @hamid914 May 11 12:46
+@halfaro1 does it matter to generate NEW pair keys for github or it is ok to use existing one?
+
+Gerald Anthony Piangco @ubuntux May 11 12:46
+what will happen if a PR has been rejected?
+
+sclou******** @sclou******** May 11 12:46
+@crichID it just sits there and waits and waits while it runs clone command with HTTPS url. I also tried set "git config --global http.sslVerify false" but still same issue with HTTPS url
+
+Hector Alfaro @halfaro1 May 11 12:47
+@hamid914 that same doc walks you through using an existing one
+
+PaPolzin @PaPolzin May 11 12:47
+@tinman git config --global http.proxy 2.8.1.windows.1
+then clone
+
+Cyndrah @Cyndrah May 11 12:47
+cloning starts but failed stating permissions denied (publickey). could not read from remote repository.
+
+Hector Alfaro @halfaro1 May 11 12:48
+@Cyndrah are you cloning with SSH or HTTPS?
+
+Cynthia Rich @crichID May 11 12:48
+@sclou******** - it looks like a couple of your colleagues are having the same issue
+
+Cyndrah @Cyndrah May 11 12:48
+used: git clone git@github.com:githubteacher/fluffy-octo-guacamole.git
+
+Tinman******** @Tinman******** May 11 12:48
+still same error @PaPolzin
+
+Hector Alfaro @halfaro1 May 11 12:49
+@Cyndrah try cloning with HTTPS
+
+Cynthia Rich @crichID May 11 12:49
+@PaPolzin not sure why that would work but glad it did :wink:
+
+Cyndrah @Cyndrah May 11 12:49
+how so?
+
+jfreise @jfreise May 11 12:49
+yep, having issues trying to clone to desktop @********
+
+PaPolzin @PaPolzin May 11 12:49
+looks like I was mistaken...mine actually still failed as well
+
+kgodoy @kgodoy May 11 12:49
+Ooh. In Windows GIT POSH prompt it supports tab completion - for those of you using Windows
+
+PaPolzin @PaPolzin May 11 12:49
+I guess proxy doesn't = version
+
+Hector Alfaro @halfaro1 May 11 12:49
+@Cyndrah git clone https://github.com/githubteacher/fluffy-octo-guacamole.git
+
+Cynthia Rich @crichID May 11 12:50
+@PaPolzin @Tinman******** @sclou******** we are going to break in a minute so let’s try to trouble shoot this
+Obviously something fun happening!
+
+jfreise @jfreise May 11 12:51
+@crichID I will join you - having the same problem.
+
+staaal @staaal May 11 12:51
+well I'm way behind still stuck on clone. room is going fast, hard to keep up since I do not have clone set up
+
+Tinman******** @Tinman******** May 11 12:51
+same here
+
+etan12345 @etan12345 May 11 12:52
+Not able to clone
+$ git clone https://github.com/githubteacher/fluffy-octo-guacamole.git
+Cloning into 'fluffy-octo-guacamole'...
+fatal: unable to access 'https://github.com/githubteacher/fluffy-octo-guacamole.git/': The requested URL returned error: 503
+
+Tinman******** @Tinman******** May 11 12:52
+Patrick is going very fast... :-(
+
+Cyndrah @Cyndrah May 11 12:52
+that did the trick thanks!
+
+Briana Swift @brianamarie May 11 12:52
+If you're feeling behind, don't worry, I will post notes during the break so we can get all caught up.
+
+Hector Alfaro @halfaro1 May 11 12:52
+@Cyndrah :tada: :clap:
+@etan12345 a number of folks are having similar issues, are you behind a company firewall by any chance?
+
+pongs486 @pongs486 May 11 12:53
+yes..
+
+Tonomoshia @tonomoshia May 11 12:53
+i had to bring my own mac to work to avoid that
+
+sktay @sktay May 11 12:53
+touch not working on windows
+
+Forrest Pugh @fpugh May 11 12:53
+'touch' is not recognized as an nternal or external command, operable program, or batch file.
+
+pongs486 @pongs486 May 11 12:53
+we have firewall @ ******** which is blocking the clone
+
+freebong3 @freebong3 May 11 12:54
+same with @fpugh. I'm on Windows.
+
+epere4 @epere4 May 11 12:54
+If you install https://git-for-windows.github.io/ you will get touch in windows
+
+pj-moviestarplanet @pj-moviestarplanet May 11 12:54
+touch will only work on windows if you are using git bash
+
+vishalhxc @vishalhxc May 11 12:54
+Has anyone from ******** cloned successfully?
+
+Cynthia Rich @crichID May 11 12:55
+@vishalhxc great question
+
+Briana Swift @brianamarie May 11 12:55
+Review of what we've covered in Day 1, part 1:
+Getting Ready for Class
+Make sure you have Git insalled on your computer and a GitHub account.
+Getting Started
+Quick review of what we've covered so far:
+Repository for Class: https://github.com/githubteacher/fluffy-octo-guacamole
+Gitter Q&A for class: https://gitter.im/githubteacher/fluffy-octo-guacamole
+Tour of Repository:
+Code View: Files belonging to the project
+README.md: Description of the Repository
+Issues: A place to have conversations and collaborate
+Pull requests: A place to collaborate while introducing changes to your project
+Comment on githubteacher/fluffy-octo-guacamole#3 to become a collaborator on the project
+Practice making an issue in the issues tab of the class repository.
+For today's activity, be sure to include your username in the title, like "YourUserName Hometown"
+In the body of the issue, we added the steps we'll take for the workflow.
+Our goal later will be to add a document with information about your hometown, like good restaurants or things to do.
+You can include markdown syntax here.
+Getting access to the collaborator script:
+The collaborator script is open-source! You can access it here. Our training kit is also open-source. We invite you to use these and welcome contributions to both these repos!
+Local Git Configs
+Review of configurations:
+We determined our git version by running git --version... version 1.9+ is recommended
+If you need to, you can install it here
+If you don't already have GitHub Desktop, you can install it here
+Clone the repository by running git clone https://github.com/githubteacher/github-for-developers-2016-04.git (Make sure you are in the directory where you want the repository to be when you run this command)
+If you have trouble with your proxy server or firewall, you may need to use SSH. Instructions here.
+Set up your Git configurations by running these commands:
+git config --global user.name "your name"
+git config --global user.email <youremail@email.com>
+git config --global core.editor <editor> (For more help associating your text editor with Git, read this GitHub Help article.
+If your version is less than 2.0: git config --global push.default simple
+Windows ONLY: git config --global core.autocrlf true
+Mac and Linux ONLY: git config --global core.autocrlf input
+git config --global fetch.prune true
+Check your configurations by running git config --list
+GitHub Flow
+You can find that visual of the GitHub flow at this link: https://guides.github.com/introduction/flow/
+Branching with Git
+Create a branch locally
+When you create a branch, you are essentially creating an identical copy of the project at that point in time that is completely separate from the master branch.
+In your terminal and in the directory for the repository, create a branch with a unique name: git branch <username-add-bio>
+Checkout to that branch to work on it: git checkout <username-add-bio>
+See what branch you're on: git branch
+6. Working Locally
+Review of working locally
+Working on our new branch, create a new file: touch <newfilename.md>
+See your working/staged area git status. This command is :heart:!
+
+sclou******** @sclou******** May 11 12:55
+@vishalhxc Yes I just did
+
+Tonomoshia @tonomoshia May 11 12:55
+i’m using my mac but on ******** wifi. I was able to clone.
+
+kgodoy @kgodoy May 11 12:55
+In Windows PowerShell you can touch this way:
+'''
+new-item -Type f yourname-bio.md
+'''
+
+Theodore Salvo @buzzsurfr May 11 12:55
+If you are from ******** and having issues, contact me privately or over Lync (tsalw)
+
+sclou******** @sclou******** May 11 12:55
+@vishalhxc send me a message on Lync.... Simeon Cloutier
+
+ASmith1234 @ASmith1234 May 11 12:55
+is it normal for a windows machine to say "+1 ~0 -0 !" after the bio?
+
+Cynthia Rich @crichID May 11 12:55
+@sclou******** what did you do?
+
+sclou******** @sclou******** May 11 12:55
+@crichID A collegue of mine gave me the correct proxy server name and port number
+and then it worked!
+
+Cyndrah @Cyndrah May 11 12:56
+having this as a prereq may have been a way to have the users prepared.
+
+tball78 @tball78 May 11 12:56
+Question... in Windows... when new branch created in CLI.. should I nee it in the GitHUb Desktop as well?
+
+kgodoy @kgodoy May 11 12:56
+new-item -Type f yourname-bio.md
+
+Cynthia Rich @crichID May 11 12:57
+@PaPolzin @Tinman******** @pongs486 looks like you can ping @sclou******** for the correct proxy information
+@/all anyone else unable to clone and need help?
+
+rajakumare1 @rajakumare1 May 11 12:57
+My git global username and email is already set to my corporate account. How to set the git to set to the local repo alone. Is it Just by setting it when I am inside the particular git repo folder?
+
+Hamid Rohani @hamid914 May 11 12:58
+@halfaro1 thanks, I figured out how to use SSH with that documentation
+
+mscerutti @mscerutti May 11 12:58
+My clone is not working
+
+Cynthia Rich @crichID May 11 12:58
+@rajakumare1 yes, cd into the repository and then do git config without the —global. That will set it for the repository!
+
+Briana Swift @brianamarie May 11 12:59
+@mscerutti Are you one of the users at ********, or are you possibly using another proxy?
+
+Tinman******** @Tinman******** May 11 13:00
+Review of what we've covered in Day 1, part 1:
+
+mscerutti @mscerutti May 11 13:00
+Yes, I am ******** and currently connected thru VPN
+
+Tinman******** @Tinman******** May 11 13:00
+Cloning into 'fluffy-octo-guacamole'...
+fatal: unable to access 'https://github.com/gith
+git/': Couldn't resolve proxy '2.8.1.windows.1'
+
+mscerutti @mscerutti May 11 13:00
+I am getting a time out
+
+Cynthia Rich @crichID May 11 13:00
+@mscerutti can you ping @sclou******** to get the correct proxy info
+
+Hamid Rohani @hamid914 May 11 13:00
+@halfaro1 How can I configure to use different pair keys while cloning with SSH? It use the default keys always.
+
+mscerutti @mscerutti May 11 13:01
+Ping from where?
+
+Cynthia Rich @crichID May 11 13:01
+@Tinman******** it looks like it is hanging on to the incorrect proxy info. Run git config —global —un-set http.proxy and then ping @sclou******** to get the correct proxy info!
+
+
+breadraptor @breadraptor May 11 14:17
+@halfaro1 notepad++ IS my core.editor, but how can I run it in a similar way to how Patrick used "sublime file.md"? :sparkles:
+
+Hector Alfaro @halfaro1 May 11 14:17
+@breadraptor so does it launch automatically when you have to enter messages with git?
+
+mscerutti @mscerutti May 11 14:17
+the pre-req for the class needs more of this detail. I tried to ask about verifying the security and did not get a response.
+
+Hector Alfaro @halfaro1 May 11 14:17
+@rsc2015 what's giving you trouble?
+
+kgodoy @kgodoy May 11 14:17
+@breadraptor For notepad++ you have to add the path to your environment path to notepad++ so that you can run it from the shell
+
+Theodore Salvo @buzzsurfr May 11 14:17
+The .git-credential file didn't work. I think ********rs may need to use SSH for GitHub. However, I know HTTPS works inside the GitHub Enterprise
+
+breadraptor @breadraptor May 11 14:18
+@halfaro1 Yep! Just wondering how to open a file explicitly with it
+
+David Coy @obsidianspork May 11 14:18
+Will you be covering git reset ?
+
+Briana Swift @brianamarie May 11 14:18
+@obsidianspork Yes, we will be covering git reset tomorrow.
+
+David Coy @obsidianspork May 11 14:18
+Awesome, thank you @brianamarie!
+
+Hector Alfaro @halfaro1 May 11 14:18
+@breadraptor perfect, then with the same command you set it, let's check, do git config core.editor -- what do you get?
+
+breadraptor @breadraptor May 11 14:19
+@halfaro1 'C:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+
+Cyndrah @Cyndrah May 11 14:19
+on cmd line git status it shows my .md as a new file.
+and i ran another push, but still not seeing it listed in my branch on teh GUI.
+
+Hector Alfaro @halfaro1 May 11 14:20
+@breadraptor try this (I'm on a Mac so can't test it) https://monkeyweekend.wordpress.com/2014/06/10/make-a-permanent-command-line-alias-for-notepad-in-windows/
+
+Briana Swift @brianamarie May 11 14:20
+@Cyndrah Can you tell me again the name of your branch?
+
+Cynthia Rich @crichID May 11 14:20
+@buzzsurfr dropped you a couple troubleshooting steps in private chat!
+
+Cyndrah @Cyndrah May 11 14:21
+cyndrah-add-bio
+
+breadraptor @breadraptor May 11 14:22
+@halfaro1 thank you
+
+drew21 @drew21 May 11 14:22
+new-item -Type f dh_bio.md
+this dosent work saying not found
+
+Briana Swift @brianamarie May 11 14:22
+@Cyndrah I am seeing it on GitHub. :smile: You can check by clicking "Branch: master" on the top left navigation bar, then searching for your own.
+
+kgodoy @kgodoy May 11 14:23
+@drew21 That's what you run if you are in a PowerShell prompt
+
+Hector Alfaro @halfaro1 May 11 14:23
+@drew21 which OS are you on?
+
+kgodoy @kgodoy May 11 14:23
+@drew21 If you are using the CMD line that (not PowerShell) then I don't know
+
+Cyndrah @Cyndrah May 11 14:23
+i can view my branch, but i don't see my "Cyndrah-bio.md file in my branch. are you seeing it.
+
+drew21 @drew21 May 11 14:23
+i am on windows
+using bash
+
+Hector Alfaro @halfaro1 May 11 14:24
+@drew21 then touch should work, do: touch dh-bio.md
+
+kgodoy @kgodoy May 11 14:24
+@drew21 Yeah then use '''touch'''
+sorry
+
+Briana Swift @brianamarie May 11 14:24
+@Cyndrah I see what you mean, I'm not seeing it. When you pushed before, did you check to see which branch you were on?
+
+Cyndrah @Cyndrah May 11 14:24
+yep, stated i was cd into my branch.
+says i need to commit this new file.
+
+Briana Swift @brianamarie May 11 14:25
+@Cyndrah Okay. Thanks for helping me understand. What does it say if you type git status again in your command line?
+
+Cyndrah @Cyndrah May 11 14:26
+says my branch is up to date with origin/cyndrah-add-bio. changes to be committed: new file cyndrah_bio.md
+
+Briana Swift @brianamarie May 11 14:26
+@Cyndrah If it's saying you need to commit the file, you might have pushed the branch before commiting the file. So, the remote knows about the branch, but not the file. Try git commit -m "Enter commit message here", then git push. (You wouldn't need the -u since the branch is already synced from your previous push).
+
+Theodore Salvo @buzzsurfr May 11 14:27
+Everyone at ********, please send me an email with your ******** username. We are going to create a repository on the ******** GitHub and use that for tomorrow's lesson
+my email is Theodore.Salvo@********.com
+
+Gerald Anthony Piangco @ubuntux May 11 14:28
+@halfaro1 ok, thanks
+
+Cyndrah @Cyndrah May 11 14:28
+that was it Briana, i now see my file.
+
+Briana Swift @brianamarie May 11 14:29
+@Cyndrah Yay! :smile: :tada:
+
+john-bailey @john-bailey May 11 14:29
+Thanks!
+
+Gerald Anthony Piangco @ubuntux May 11 14:29
+what was patrick's last command? i wasn't able to catch that
+
+Briana Swift @brianamarie May 11 14:29
+@Cyndrah To get back on track, you still need to open a pull request. Please let us know if we can help you with that at all. :smile:
+
+Cyndrah @Cyndrah May 11 14:29
+will do.
+
+nehakgoyal @nehakgoyal May 11 14:31
+i am not able to merge
+Merge attempt failed
+We couldn’t merge this pull request. Reload the page before trying again.
+
+breadraptor @breadraptor May 11 14:31
+Keeps saying merge attempt failed. Maybe too many people merging at once?
+
+cemopg @cemopg May 11 14:31
+Sound is going in and out. Is it just me?
+
+David Coy @obsidianspork May 11 14:31
+@breadraptor that's what I'm thinking
+
+Cyndrah @Cyndrah May 11 14:31
+no conflict and looks like i can merge, but it keeps bouncing between checking if i can merge (amber) or merge (green). Will i merge using command line?
+
+tball78 @tball78 May 11 14:31
+
+
+breadraptor @breadraptor May 11 14:31
+There we go, it just took me a few tries but I was able to merge
+
+JamieW @JamiesHQ May 11 14:32
+@tball78 : me too
+
+Briana Swift @brianamarie May 11 14:32
+If you're getting a bounce of merge attempt failed even though there are no requests, it's because of the high volume of attempts. This is case specific to this class, just keep trying.
+
+Gerald Anthony Piangco @ubuntux May 11 14:32
+just keep trying...
+
+tball78 @tball78 May 11 14:32
+me as well... merge attempt failed
+
+Livia Labate @livlab May 11 14:32
+are these errors because too many people are trying PR against the same repo at the same time?
+
+nehakgoyal @nehakgoyal May 11 14:32
+was finally able to merge
+
+Briana Swift @brianamarie May 11 14:33
+@livlab Yep. I have never heard of a real-life use case where this happens.
+
+nehakgoyal @nehakgoyal May 11 14:33
+thanks
+
+Livia Labate @livlab May 11 14:33
+👍🏻🏻
+
+Hector Alfaro @halfaro1 May 11 14:33
+@/all if you're unable to merge, try again (this happens when hundreds of folks are merging at once sometimes, not always). Sometimes (unrelated) there's a merge conflict as well which we will cover tomorrow and Patrick is superficially covering now :)
+
+kgodoy @kgodoy May 11 14:34
+It took me a half dozen times
+but it merged
+
+Cynthia Rich @crichID May 11 14:34
+@kgodoy yes, this happens with 200+ people in class :wink:
+
+Tinman******** @Tinman******** May 11 14:35
+Any one from ******** able to get further From PUSH command?
+
+Livia Labate @livlab May 11 14:35
+you are not showing the diagram
+
+Theodore Salvo @buzzsurfr May 11 14:35
+@Tinman******** send me your ******** username in an email Theodore.Salvo@********.com
+
+Livia Labate @livlab May 11 14:36
+oh it was frozen
+
+Theodore Salvo @buzzsurfr May 11 14:36
+We're setting up a repo in our Enterprise environment
+
+Tinman******** @Tinman******** May 11 14:36
+YPATF @buzzsurfr
+
+Hector Alfaro @halfaro1 May 11 14:38
+Someone asked earlier about fetch.prune here it is ;)
+
+cemopg @cemopg May 11 14:39
+Should we delete our branch on github?
+
+Hector Alfaro @halfaro1 May 11 14:39
+@cemopg once you've merged, yes. The commits on your branch get copied into master when you merge, so it is safe to delete the branch.
+
+Cyndrah @Cyndrah May 11 14:40
+just followed his current discussion as I was having same issue, so ran git pull and now shows branch as up to date.
+
+rajakumare1 @rajakumare1 May 11 14:40
+I git disconnected when we were going through fetch
+
+sktay @sktay May 11 14:40
+@githubteacher ... how do I switch back to master?
+
+Hector Alfaro @halfaro1 May 11 14:40
+@sktay git checkout master
+
+Livia Labate @livlab May 11 14:40
+I missed how you removed the remote branch from the command line, can you repeat?
+
+Leah-Belin @Leah-Belin May 11 14:40
+I missed how to delete the branch off github
+
+Hector Alfaro @halfaro1 May 11 14:40
+@rajakumare1 you'll get a video of today's session but @brianamarie may be nice enough to send us a summary in a few minutes, also
+@Leah-Belin on your merged pull request, there's a button to delete near the bottom of the page
+
+rajakumare1 @rajakumare1 May 11 14:41
+that @halfaro1
+thanks
+
+Cyndrah @Cyndrah May 11 14:41
+guess now i delete my branch locally, as I no longer see the branch under the Master list (gui). would that be correct?
+
+JamieW @JamiesHQ May 11 14:42
+"we have gone over the absolute basics" lol
+
+sclou******** @sclou******** May 11 14:42
+@JamiesHQ lol!! Yes, git is very powerful, lots to learn!!
+
+kgodoy @kgodoy May 11 14:42
+@Leah-Belin Use the command git branch -d your-branch--name
+
+Livia Labate @livlab May 11 14:43
+CTRL Z to get our of that btw
+
+Leah-Belin @Leah-Belin May 11 14:43
+actually, I got that part - locally. it's the github delete I can't seem to see the butotn
+
+Chip Morris @ChipMorris10 May 11 14:44
+How do I get out of the : in iTerm without hitting Return to see all the commits?
+
+sclou******** @sclou******** May 11 14:44
+@ChipMorris10 press "q"
+then enter if necessary
+it's actually a "VI" editor, so same commands as VI
+
+Leah-Belin @Leah-Belin May 11 14:44
+oh found it. thanks
+
+Frank H. Zambrano @Frankhzm May 11 14:44
+after git log, I have a : at prompt, I press enter to advance . But how do I get to the command line?
+
+Chip Morris @ChipMorris10 May 11 14:45
+Thanks @sclou********
+
+sclou******** @sclou******** May 11 14:45
+@Frankhzm press "q"
+enter
+
+Hector Alfaro @halfaro1 May 11 14:45
+@Frankhzm it's because you're using the default text editor which is vim, press q
+@sclou******** :sparkles:
+
+Gerald Anthony Piangco @ubuntux May 11 14:46
+hmmn... why is it that whenever he executes those commands the logs stay on his screen
+I have to press "q" on my screen and everything disappears :(
+
+kgodoy @kgodoy May 11 14:46
+From the Git Essentials class I took last week you can create an alias:
+Set an alias for our favorite way to view history:
+git config --global alias.lol "log --oneline --graph --decorate --all"
+then to use it type:
+git lol
+'lol' is optional you can call it whatever you want
+
+sclou******** @sclou******** May 11 14:47
+@ubuntux its because its actually is opening the VI editor
+
+Gerald Anthony Piangco @ubuntux May 11 14:47
+ic... what should I do then?
+
+sclou******** @sclou******** May 11 14:47
+*VIM
+press ":q"
+and you should be brought back to prompt
+
+Gerald Anthony Piangco @ubuntux May 11 14:48
+i mean so i can have the same output as patrick's?
+
+sclou******** @sclou******** May 11 14:49
+@ubuntux that's the log command with the graph.... so "git log --oneline --graph --decorate -5"
+for instance
+
+Hector Alfaro @halfaro1 May 11 14:49
+@ubuntux if you use a full command like git log --oneline --graph --decorateit'll show up like Patrick's
+
+Gerald Anthony Piangco @ubuntux May 11 14:50
+how does he make the output stay on his screen and execute another command?
+i'm not able to execute another command without pressing 'q' :(
+
+Hector Alfaro @halfaro1 May 11 14:51
+@ubuntux git log by itself will launch you into a view that allows you to scroll, I believe that's what you're seeing
+
+Gerald Anthony Piangco @ubuntux May 11 14:51
+and when I do, the output from git log disappears
+ic
+
+Cynthia Rich @crichID May 11 14:51
+@ubuntux which shell are you using?
+
+Gerald Anthony Piangco @ubuntux May 11 14:52
+zsh
+
+kgodoy @kgodoy May 11 14:52
+Maybe you can use screen
+
+Hamid Rohani @hamid914 May 11 14:52
+@ubuntux use git --no-pager log --oneline --graph --decorate
+
+Hector Alfaro @halfaro1 May 11 14:53
+@hamid914 :sparkles: or more simply git --no-pager log if you're just looking for the entire log
+
+Cynthia Rich @crichID May 11 14:53
+@hamid914 you beat me :wink:
+
+Hamid Rohani @hamid914 May 11 14:54
+@halfaro1 @crichID I have learned from you
+
+Gerald Anthony Piangco @ubuntux May 11 14:55
+the --no-pager answers it
+thanks @hamid914 and @halfaro1
+how can i make it use --no-pager automatically?
+
+rajakumare1 @rajakumare1 May 11 14:58
+?
+how will I be able to view the video again. You will email us
+
+Anne @AnnieGitUrGun May 11 14:59
+:clap:
+
+Hector Alfaro @halfaro1 May 11 14:59
+@rajakumare1 yes, video will be emailed within a couple of days
+
+Alex Zuniga @alexanderzuniga May 11 14:59
+:clap: :clap: :clap: :clap: :clap: :clap:
+
+Hector Alfaro @halfaro1 May 11 14:59
+@rajakumare1 there's still tomorrow's session though :)
+
+Farfi @Farfi May 11 14:59
+Thanks! See you tomorrow folks
+
+kgodoy @kgodoy May 11 15:00
+Thanks all!
+
+Gerald Anthony Piangco @ubuntux May 11 15:00
+is it possible to invoke --no-pager option on git log command automatically?
+
+Dmitriy Khabarov @jdim May 11 15:00
+Thanks!
+
+kgodoy @kgodoy May 11 15:01
+Can we get the notes for this last session?
+
+Rohini @rsc2015 May 11 15:01
+could u pls share a video link of past webinar.
+
+Gerald Anthony Piangco @ubuntux May 11 15:01
+can that be done via git config?
+
+Hamid Rohani @hamid914 May 11 15:01
+@patrickmckenna @halfaro1 @crichID @brianamarie Thanks :+1: :clap:
+
+Livia Labate @livlab May 11 15:01
+he said he was gonna cover fetch.prune true later; anyone know what that's for?
+
+Rohini @rsc2015 May 11 15:01
+text editor & git, how do they work simultaneously?
+
+rajakumare1 @rajakumare1 May 11 15:01
+@halfaro1 What is diferrence between master and orgin/masgin
+
+Rohini @rsc2015 May 11 15:02
+im using atom & psh git
+
+Hector Alfaro @halfaro1 May 11 15:02
+@ubuntux try git config core.pager cat
+
+Briana Swift @brianamarie May 11 15:02
+Notes from Day 1, section 3:
+Collaborate on GitHub
+Once you've opened a pull request, go into someone elses. Please don't merge someone else's PR.
+Look at their code, and make a comment about something you see.
+Merging Pull Requests
+Pull requests
+During class, please do not close or merge any pull requests other than your own.
+On your own pull request, if all is green and there are no conflicts, go ahead and merge your branch.
+After merging a branch, it's part of the master branch and good practice is to delete it.
+This is a major difference between Git and some older version control systems. In Git, branch often, merge often, and delete branches often.
+Back at the command line, we need to pull down the changes from GitHub.com in the remote repository.
+git checkout master
+git pull
+git branch --merged
+git branch -d <branch-name>
+git fetch --prune
+Configure your settings to do this by default by typing git config --global fetch.prune true
+View Local Changes
+Local Diffs
+View local diff diagram here
+11. Local History
+Use git log to view the history of the repository
+git log will show commits from your own local repository, but also changes made by other collaborators
+Experiment with different option switches to view history:
+git log
+git log --oneline
+git log --oneline --graph
+git log --oneline --graph --decorate
+git log --oneline --graph --decorate --all
+git log --stat
+git log --patch
+Use the up and down arrows or press enter to view additional log entries. Type q to quit viewing the log and return to the command prompt.
+Streamline Workflow With Aliases
+Set up an alias in configurations: git config --global alias.<desired-alias> "the long version of the command that you want the alias to run, without git at the beginning, and with the desired flags"
+
+Hector Alfaro @halfaro1 May 11 15:02
+with the --global flag if you'd like to set it globally @ubuntux
+@livlab he did! get.prune removes local branches when a pull command detects that the branches are gone from the remote, I mentioned it on the chat but I forgot who asked so I wasn't able to mention you :speak_no_evil:
+
+Gerald Anthony Piangco @ubuntux May 11 15:03
+@halfaro1 that did the trick! thank you so much!
+
+Hector Alfaro @halfaro1 May 11 15:04
+@ubuntux my pleasure :wave: see you tomorrow
+
+Livia Labate @livlab May 11 15:04
+@halfaro1 ah! missed it. thank you!
+
+rajakumare1 @rajakumare1 May 11 15:04
+Does origin point to the source in github ?
+
+Rohini @rsc2015 May 11 15:05
+@halfaro1 text editor & git, how do they work simultaneously? i'm using atom & posh git
+
+Hector Alfaro @halfaro1 May 11 15:05
+@rajakumare1 origin is an alias for the URL of the remote, the one you cloned from
+
+Gerald Anthony Piangco @ubuntux May 11 15:05
+@halfaro1 it would be nice to add it on our Notes? (prune true)
+
+Hector Alfaro @halfaro1 May 11 15:05
+@rajakumare1 using git remote -v you'll see behind the curtain ;)
+@rsc2015 do you mean how to set the text editor for git?
+
+Rohini @rsc2015 May 11 15:05
+yes!
+
+Gerald Anthony Piangco @ubuntux May 11 15:06
+ooops! @halfaro1 nevermind what i said... it was already on the notes :)
+
+Hector Alfaro @halfaro1 May 11 15:06
+@ubuntux the notes are kept by note master @brianamarie I'll pass it along -- but that may be a preference :)
+
+Gerald Anthony Piangco @ubuntux May 11 15:06
+@brianamarie already included it on the notes... i just missed it
+
+Hector Alfaro @halfaro1 May 11 15:06
+@rsc2015 git config --global core.editor "atom --wait"
+@ubuntux shows how much I read the notes :smirk:
+
+rajakumare1 @rajakumare1 May 11 15:07
+so what is the differnce fetch and pull. That is where I got disconnected adn the missing ppiece for me.
+
+Hector Alfaro @halfaro1 May 11 15:07
+she's usually 3 steps ahead of me
+
+Briana Swift @brianamarie May 11 15:07
+@ubuntux There's a good chance I did miss something else, though, so please feel free to ping me if there's something you'd like me to add. We try to reuse these so you'll be helping lots of others :smile:
+@halfaro1 :wink: False!
+
+Rohini @rsc2015 May 11 15:07
+@halfaro1 does that command open the atom window?
+
+Hector Alfaro @halfaro1 May 11 15:08
+@rajakumare1 pull is actually a combination of fetch and merge
+
+Rohini @rsc2015 May 11 15:08
+@halfaro1 open the atom window atomically?
+
+Hector Alfaro @halfaro1 May 11 15:08
+@rajakumare1 pull says first fetch the changes from the remote, then merge them locally
+
+Rohini @rsc2015 May 11 15:08
+automatically :smile: @halfaro1
+
+Hector Alfaro @halfaro1 May 11 15:09
+@rsc2015 haha! I LOLed for that one. Yes, the command sets Atom as the default editor anytime git needs to open an editor
+
+rajakumare1 @rajakumare1 May 11 15:09
+so does fetch only updates our currecnt checked branch an does not update thr master inside our local machine
+Am I correct
+*checked out
+
+Rohini @rsc2015 May 11 15:09
+@halfaro1 thats not working for me
+
+Hector Alfaro @halfaro1 May 11 15:12
+@rsc2015 does the command atom work by itself?
+@rajakumare1 it updates all remote tracking branches
+
+Gerald Anthony Piangco @ubuntux May 11 15:13
+great class today... I learned a lot!
+thanks @halfaro1 @crichID @brianamarie and @patrickmckenna
+
+Rohini @rsc2015 May 11 15:13
+@halfaro1 do u mean i MUST type git config --global core.editor "atom "
+
+rajakumare1 @rajakumare1 May 11 15:13
+Thanks @halfaro1
+
+Tonomoshia @tonomoshia May 11 15:13
+ditto! > great class today... I learned a lot!
+thanks @halfaro1 @crichID @brianamarie and @patrickmckenna
+
+Hector Alfaro @halfaro1 May 11 15:14
+@rsc2015 first I'd like to make sure atom is recognized by your command prompt
+then we'll set the default using the config command
+
+Rohini @rsc2015 May 11 15:14
+@halfaro1 how do i do that?
+
+Hector Alfaro @halfaro1 May 11 15:14
+@rsc2015 just type atom and see if atom comes up
+:wave: see you later @tonomoshia @ubuntux
+
+Rohini @rsc2015 May 11 15:15
+ok! @halfaro1 only atom ? or git atom?
+
+Hector Alfaro @halfaro1 May 11 15:15
+@rsc2015 just atom
+
+Rohini @rsc2015 May 11 15:15
+@halfaro1 sorry for all the silly question :worried:
+
+Hector Alfaro @halfaro1 May 11 15:16
+@rsc2015 no worries, we're here to help
+does the command atom by itself launch the atom text editor?
+
+Rohini @rsc2015 May 11 15:16
+@halfaro1 the comment says "the term 'atom' is not recognized etc etc....................."
+
+Hector Alfaro @halfaro1 May 11 15:17
+ok, then the config won't work, did you download and install atom on your machine?
+
+Rohini @rsc2015 May 11 15:17
+@halfaro1 yes!
+
+Hector Alfaro @halfaro1 May 11 15:17
+awesome, and are you on Windows, Mac or Unix>
+
+Rohini @rsc2015 May 11 15:17
+@halfaro1 on windows
+
+Hector Alfaro @halfaro1 May 11 15:18
+@rsc2015 got it -- and are you using git bash or git cmd?
+
+Rohini @rsc2015 May 11 15:18
+@halfaro1 i'm using posh git
+
+Hector Alfaro @halfaro1 May 11 15:19
+I think you said that earlier, sorry
+grabbing it myself one sec
+
+Hector Alfaro @halfaro1 May 11 15:25
+@rsc2015 do you know how to add variables to your PATH?
+
+Rohini @rsc2015 May 11 15:25
+nope!
+@halfaro1 no worries! I'll figure out .....Thanks for your time!
+
+Hector Alfaro @halfaro1 May 11 15:30
+@rsc2015 see you tomorrow, I'll see if I can have an answer for you then
+This room will be inactive until tomorrow's session on Thu, May 12. Please visit https://services.github.com/, https://help.github.com/, or email services@github.com with further questions in the meantime.
+
+Rohini @rsc2015 May 11 15:30
+@halfaro1 Thank you for your help!
+
+etan12345 @etan12345 10:47
+Please send the recording from yesterday
+
+Briana Swift @brianamarie 11:27
+@etan12345 I don't believe the recording will up before today's class, but you can view a summary of the notes githubteacher/fluffy-octo-guacamole#175.
+
+Patrick McKenna @patrickmckenna 11:53
+@etan12345: the recording is acually up: https://vimeo.com/166273795/bf43c46e11
+
+
+manjeet88 @manjeet88 11:56
+Hello
+
+Cynthia Rich @crichID 11:59
+@manjeet88
+
+etan12345 @etan12345 12:00
+thank you for the recording link
+
+manojdatar @manojdatar 12:02
+hi
+
+Elliot Martinez @ElJoMartinez 12:02
+hello everyone
+
+nehakgoyal @nehakgoyal 12:02
+hey
+audio is unclear
