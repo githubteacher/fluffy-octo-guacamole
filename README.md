@@ -6,6 +6,8 @@ We'll be using Gitter, a chat service that integrates with GitHub, for Q&A. Plea
 
 Notes from Day 1, section 1:
 
+![alt tag](https://imgs.xkcd.com/comics/git.png)
+
 ### Getting Ready for Class
 - Make sure you have [Git insalled](https://git-scm.com/) on your computer and a [GitHub account](https://github.com/).
 
