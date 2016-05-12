@@ -9,3 +9,4 @@
 ### Favortie activities
 
 - Running
+- Travelling
