@@ -1,2 +1,0 @@
-### Work location
-Hudson, Ohio
