@@ -4,4 +4,5 @@
 ### Favorite Activities
 - camping
 - swimming
-- skiings
+- skiing
+- going out with friends
