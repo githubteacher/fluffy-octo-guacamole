@@ -1,2 +1,0 @@
-### Burritos
-- Bean and Cheese

@@ -1,2 +1,0 @@
-### Hometown
-- Baltimore, MD

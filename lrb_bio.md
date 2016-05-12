@@ -1,2 +1,0 @@
-### Hometown
-- Washington, DC
