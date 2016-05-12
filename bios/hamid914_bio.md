@@ -5,3 +5,4 @@
 - Playing music
 - Programming
 - Listening to music
+- Climbing
