@@ -1,4 +1,4 @@
-Welcome!
+Welcome to Teacher!
 
 We'll be using Gitter, a chat service that integrates with GitHub, for Q&A. Please click the button below to join the chat room for today's class.
 
@@ -12,9 +12,9 @@ Notes from Day 1, section 1:
 ### Getting Started
 **Quick review of what we've covered so far:**
 - Repository for Class: https://github.com/githubteacher/developers-may-2016
-- Tour of Repository: 
+- Tour of Repository:
   - Code View:  Files belonging to the project
-  - README.md: Description of the Repository 
+  - README.md: Description of the Repository
   - Issues: A place to have conversations and collaborate
   - Pull requests: A place to collaborate while introducing changes to your project
 - Comment on [this issue](NEWLINKHERE) to become a collaborator on the project
@@ -130,3 +130,5 @@ Configure your settings to do this by default by typing `git config --global fet
 
 ### Streamline Workflow With Aliases
 - Set up an alias in configurations: `git config --global alias.<desired-alias> "the long version of the command that you want the alias to run, without git at the beginning, and with the desired flags"`
+
+lets see what happens with the conflict
