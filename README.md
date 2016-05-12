@@ -10,10 +10,6 @@ We'll be using Gitter, a chat service that integrates with GitHub, for Q&A. Plea
 - [StackOverflow Git Tagged Questions](http://stackoverflow.com/questions/tagged/git)
 - [xkcd](https://xkcd.com/54/)
 
-#### Who is note taker?
-
-- David: [@obsidianspork](https://github.com/obsidianspork)
-
 Notes from Day 1, section 1:
 
 ### Getting Ready for Class
