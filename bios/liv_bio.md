@@ -1,9 +1,7 @@
 ## Lorem ipsum dolor sit amet
 
 * ***New and improved!***
-* ***yeah***
 * ***w00t***
-
 
 Consectetur adipiscing elit. In consequat est neque. Sed facilisis metus quis mauris pellentesque ornare. 
 
