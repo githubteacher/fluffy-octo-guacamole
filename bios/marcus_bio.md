@@ -2,4 +2,4 @@
 - Rio de Janeiro
 
 ### Favorite Activities
-- playing games
+- play games
