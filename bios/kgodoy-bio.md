@@ -8,3 +8,4 @@
 ## Favorite Places to Eat
 - El Paisa
 - Hatam
+- Royal Rasoi
