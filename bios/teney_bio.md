@@ -5,3 +5,5 @@
 ### Favourite Activities
 - Mountain Biking
 - Photography
+- watching movies
+
