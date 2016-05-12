@@ -3,3 +3,5 @@
 
 ## Favorite Activities
 - Agility
+- Reading
+- Hiking
