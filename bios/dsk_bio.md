@@ -12,3 +12,8 @@
 -Americana
 -Italian
 ## Sorrento's
+
+### Activities
+-sleeping
+-visit Gettysburg
+-visit family
