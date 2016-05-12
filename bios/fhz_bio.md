@@ -1,5 +1,6 @@
-###Hometown
-Chicago, Illinois
+### Hometown
+- Chicago, Illinois
 
-##Favorite Places
-Mag Mile
+## Favorite Places
+- Mag Mile
+- Old Town
