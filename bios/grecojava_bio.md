@@ -6,5 +6,5 @@ I have been developing web applications in Java, ColdFusion and PHP for the past
 ![alt text](http://www.santarosa.edu/~dpearson/images/mug_shot.jpg "mug shot")
 
 
-
+here's soem thing else
 
