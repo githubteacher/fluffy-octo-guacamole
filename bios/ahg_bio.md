@@ -3,3 +3,4 @@
 
 ## Favorite activities
 - hiking
+- travel
